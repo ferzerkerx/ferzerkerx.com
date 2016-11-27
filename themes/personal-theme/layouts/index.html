@@ -2,11 +2,62 @@
 {{ partial "navbar.html" . }}
 
 
-{{ range $index, $page := where .Data.Pages "Type" "home" }}
-    {{ $params := dict "root" $ "page" $page "pubs_selected_len" $pubs_selected_len }}
-    {{ $widget := printf "widgets/%s.html" ( or $page.Params.widget "custom" ) }}
-    {{ partial $widget $params }}
+<h1>project</h1>
+{{ range .Data.Pages }}
+{{ if eq .Type "project"}}
+<section id="projects">
+    <div class="container">
+
+        <div class="row">
+            <div class="col-xs-12 col-md-4 section-heading">
+                <h1>{{ with .Title }}{{ . | markdownify }}{{ end }}</h1>
+            </div>
+            <div class="col-xs-12 col-md-8">
+                {{ .Description }}
+                <br/>
+                <a href="{{ .Permalink }}">More details</a>
+            </div>
+        </div>
+    </div>
+</section>
 {{ end }}
+{{ end }}
+
+<h1>posts</h1>
+{{ $post_num := len (where $.Data.Pages "Type" "post") }}
+
+{{ range first 10 .Data.Pages }}
+{{ if eq .Type "post"}}
+
+<section id="posts">
+    <div class="container">
+
+        <div class="row">
+            <div class="col-xs-12 col-md-4 section-heading">
+                <h1>{{ with .Title }}{{ . | markdownify }}{{ end }}</h1>
+                <h4>{{ .Date.Format "Mon, Jan 2, 2006" }}</h4>
+
+                {{ if gt $post_num .Site.Params.max_post_count }}
+                <p class="view-all">
+                    <a href="{{ "/post/" | relURL }}">
+                    <i class="fa fa-angle-double-right"></i>
+                    </a>
+                </p>
+                {{ end }}
+            </div>
+            <div class="col-xs-12 col-md-8">
+                {{ .Description }}
+                <br/>
+                <a href="{{ .Permalink }}">Keep Reading</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+{{ end }}
+{{ end }}
+
 
 {{ partial "footer.html" . }}
 
