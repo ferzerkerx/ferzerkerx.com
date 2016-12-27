@@ -1,12 +1,12 @@
 +++
-Description = "Git repository line analyzer that determines percentage of contribution for all committers"
+Description = "A static git repository tool analyzer. It calculates the total contribution per category / project by developer and it generates a report displaying charts with this information. It helps to understand which developers own or understand specific categories on the code."
 Tags = []
 Categories = []
 Title = "Git Greenseer"
 link = "https://github.com/ferzerkerx/git-greenseer/"
 +++
-A Static Git repository analyzer. It calculates the total contribution per category and for all project by developer 
-and it generates a report displaying charts with this information. It helps understanding which developers own or understand
+A static git repository tool analyzer. It calculates the total contribution per category / project by developer 
+and it generates a report displaying charts with this information. It helps to understand which developers own or understand
 specific categories on the code.
 
 Html report shows:
