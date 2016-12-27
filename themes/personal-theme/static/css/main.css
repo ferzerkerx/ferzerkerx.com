@@ -1,3 +1,25 @@
 footer {
     padding-top: 2em;
 }
+
+#profile {
+    color: beige;
+    background-color: black;
+    height: 100%;
+}
+
+#profile li {
+    display: inline;
+    padding-right: 1em;
+}
+
+#profile-content {
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 50%;
+}
+
+.main-row {
+    height: 100%;
+    position: absolute;
+}

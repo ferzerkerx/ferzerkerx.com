@@ -1,62 +1,99 @@
 {{ partial "header.html" . }}
 {{ partial "navbar.html" . }}
 
-
-<h1>project</h1>
-{{ range .Data.Pages }}
-{{ if eq .Type "project"}}
-<section id="projects">
-    <div class="container">
-
-        <div class="row">
-            <div class="col-xs-12 col-md-4 section-heading">
-                <h1>{{ with .Title }}{{ . | markdownify }}{{ end }}</h1>
+<div class="row main-row">
+    <div class="col-md-2" id="profile">
+        <div id="profile-content">
+            <div class="portrait-title">
+                <h2>Fernando Montes</h2>
             </div>
-            <div class="col-xs-12 col-md-8">
-                {{ .Description }}
-                <br/>
-                <a href="{{ .Permalink }}">More details</a>
-            </div>
-        </div>
-    </div>
-</section>
-{{ end }}
-{{ end }}
-
-<h1>posts</h1>
-{{ $post_num := len (where $.Data.Pages "Type" "post") }}
-
-{{ range first 10 .Data.Pages }}
-{{ if eq .Type "post"}}
-
-<section id="posts">
-    <div class="container">
-
-        <div class="row">
-            <div class="col-xs-12 col-md-4 section-heading">
-                <h1>{{ with .Title }}{{ . | markdownify }}{{ end }}</h1>
-                <h4>{{ .Date.Format "Mon, Jan 2, 2006" }}</h4>
-
-                {{ if gt $post_num .Site.Params.max_post_count }}
-                <p class="view-all">
-                    <a href="{{ "/post/" | relURL }}">
-                    <i class="fa fa-angle-double-right"></i>
+            <ul class="social-icon" aria-hidden="true">
+                <li>
+                    <a href="//twitter.com/ferzerkerx">
+                        <i class="fa fa-twitter big-icon"></i>
                     </a>
-                </p>
-                {{ end }}
-            </div>
-            <div class="col-xs-12 col-md-8">
-                {{ .Description }}
-                <br/>
-                <a href="{{ .Permalink }}">Keep Reading</a>
-            </div>
+                </li>
+                <li>
+                    <a href="//github.com/ferzerkerx">
+                        <i class="fa fa-github big-icon"></i>
+                    </a>
+                </li>
+                <li>
+                    <a href="//linkedin.com/in/fernando-montes-de-oca-117b8316">
+                        <i class="fa fa-linkedin big-icon"></i>
+                    </a>
+                </li>
+            </ul>
         </div>
     </div>
-</section>
+    <div class="col-md-8">
+        <div class="row">
+
+        <section id="projects">
+                <h1>Projects</h1>
+                <div class="container">
+
+                {{ range .Data.Pages }}
+        {{ if eq .Type "project"}}
+
+                <div class="row">
+                    <div class="col-xs-12 col-md-4 section-heading">
+                        <h1>{{ with .Title }}{{ . | markdownify }}{{ end }}</h1>
+                    </div>
+                    <div class="col-xs-12 col-md-6">
+                        {{ .Description }}
+                        <br/>
+                        <a href="{{ .Permalink }}">More details</a>
+                    </div>
+                </div>
 
 
-{{ end }}
-{{ end }}
+        {{ end }}
+        {{ end }}
+                </div>
+        </section>
+        </div>
+
+        <div class="row">
+            <section id="posts">
+                <h1>Posts</h1>
+                <div class="container">
+        {{ $post_num := len (where $.Data.Pages "Type" "post") }}
+
+        {{ range first 10 .Data.Pages }}
+        {{ if eq .Type "post"}}
+
+
+
+                <div class="row">
+                    <div class="col-xs-12 col-md-4 section-heading">
+                        <h1>{{ with .Title }}{{ . | markdownify }}{{ end }}</h1>
+                        <h4>{{ .Date.Format "Mon, Jan 2, 2006" }}</h4>
+
+                        {{ if gt $post_num .Site.Params.max_post_count }}
+                        <p class="view-all">
+                            <a href="{{ "/post/" | relURL }}">
+                            <i class="fa fa-angle-double-right"></i>
+                            </a>
+                        </p>
+                        {{ end }}
+                    </div>
+                    <div class="col-xs-12 col-md-6">
+                        {{ .Description }}
+                        <br/>
+                        <a href="{{ .Permalink }}">Keep Reading</a>
+                    </div>
+                </div>
+
+
+        {{ end }}
+        {{ end }}
+                </div>
+            </section>
+        </div>
+
+    </div>
+</div>
 
 
 {{ partial "footer.html" . }}
