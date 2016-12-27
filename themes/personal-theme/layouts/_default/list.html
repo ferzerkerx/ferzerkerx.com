@@ -1,7 +1,15 @@
 {{ partial "header.html" . }}
 
-    {{ range .Data.Pages }}
-        <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
-    {{ end }}
+<div class="row main-row">
+
+    <div class="col-xs-2 left">
+        {{ partial "navbar.html" . }}
+    </div>
+    <div class="col-xs-8 col-md-10 content">
+        {{ range .Data.Pages }}
+            <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+        {{ end }}
+    </div>
+</div>
 
 {{ partial "footer.html" . }}

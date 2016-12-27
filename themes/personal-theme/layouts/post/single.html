@@ -1,8 +1,19 @@
 {{ partial "header.html" . }}
 
-<article>
-    <header>{{ .Title }}</header>
-    <h2>{{ .Date.Format "Mon, Jan 2, 2006" }}</h2>
-    {{ .Content }}
-</article>
+<div class="row main-row">
+
+    <div class="col-xs-2 left">
+        {{ partial "navbar.html" . }}
+    </div>
+    <div class="col-xs-8 col-md-10 content">
+
+        <article>
+            <header>{{ .Title }}</header>
+            <h2>{{ .Date.Format "Mon, Jan 2, 2006" }}</h2>
+            {{ .Content }}
+        </article>
+
+    </div>
+</div>
+
 {{ partial "footer.html" . }}

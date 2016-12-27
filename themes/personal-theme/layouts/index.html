@@ -3,47 +3,7 @@
 <div class="row main-row">
 
     <div class="col-xs-2 left">
-        <div id="profile">
-            <div class="spacer"></div>
-
-            <div id="profile-content">
-                <nav id="nav-menu">
-                    <div class="navbar">
-                        <ul class="nav navbar-nav">
-                            <li><p>Navigation</p></li>
-                            {{ range .Site.Menus.main }}
-                            <li class="nav-item">
-                                <a href="{{ .URL | relURL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}>
-                                    {{ .Name }}
-                                </a>
-                            </li>
-                            {{ end }}
-                        </ul>
-                    </div>
-                </nav>
-
-                <div class="social">
-                    <ul class="social-icon" aria-hidden="true">
-                        <li>
-                            <a href="//twitter.com/ferzerkerx" target="_blank">
-                                <i class="fa fa-twitter big-icon"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="//github.com/ferzerkerx" target="_blank">
-                                <i class="fa fa-github big-icon"></i>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="//linkedin.com/in/fernando-montes-de-oca-117b8316" target="_blank">
-                                <i class="fa fa-linkedin big-icon"></i>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-
+        {{ partial "navbar.html" . }}
     </div>
 
 
