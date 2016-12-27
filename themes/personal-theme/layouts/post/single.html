@@ -8,8 +8,10 @@
     <div class="col-xs-8 col-md-10 content">
 
         <article>
-            <header>{{ .Title }}</header>
-            <h2>{{ .Date.Format "Mon, Jan 2, 2006" }}</h2>
+            <header>
+                <h1>{{ .Title }}</h1>
+                <h3>{{ .Date.Format "Mon, Jan 2, 2006" }}</h3>
+            </header>
             {{ .Content }}
         </article>
 

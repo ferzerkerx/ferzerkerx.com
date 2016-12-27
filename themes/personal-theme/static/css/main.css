@@ -43,7 +43,7 @@ footer {
 
 
 .spacer {
-    height: 35%;
+    height: 20%;
 }
 
 #nav-menu {
@@ -70,4 +70,24 @@ footer {
 
 .footer {
     margin-left: 12em;
+    padding-top: 0;
+}
+
+.project-img {
+    max-width: 600px;
+    max-height: 500px;
+}
+
+.project-link {
+    margin-right: 1em;
+}
+
+.project-title {
+    display: inline-block;
+}
+
+hr {
+    margin-top: 0;
+    margin-bottom: 0;
+    border-top: 2px solid #eee;
 }
