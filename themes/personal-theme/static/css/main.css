@@ -6,20 +6,63 @@ footer {
     color: beige;
     background-color: black;
     height: 100%;
-}
-
-#profile li {
-    display: inline;
-    padding-right: 1em;
+    position: fixed;
 }
 
 #profile-content {
-    margin-top: auto;
-    margin-bottom: auto;
-    height: 50%;
+    min-width: 12em;
+}
+
+.social {
+    margin-top: 10em;
+    background-color: beige;
+    border-radius: 2em;
+    min-height: 2em;
+    font-size: 1.5em;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.social-icon {
+    padding-left: 0.6em;
+}
+
+.social-icon li {
+    display: inline;
+    margin-right: 1em;
+    cursor: pointer;
 }
 
 .main-row {
     height: 100%;
-    position: absolute;
+    padding-bottom: 3em;
+}
+
+
+.spacer {
+    height: 35%;
+}
+
+#nav-menu {
+    color: lightslategrey;
+    font-size: 1.5em;
+    margin: auto;
+    width: 90%;
+}
+
+.nav-item a {
+    color: darkgray;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.nav > li, .nav > li :hover {
+    float: none;
+    border-radius: 2em;
+}
+
+.nav > li > a {
+    padding: 5px;
 }
