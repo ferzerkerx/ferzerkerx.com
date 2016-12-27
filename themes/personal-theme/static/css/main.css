@@ -67,3 +67,7 @@ footer {
 .nav > li > a {
     padding: 5px;
 }
+
+.footer {
+    margin-left: 12em;
+}
