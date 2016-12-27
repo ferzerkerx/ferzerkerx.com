@@ -14,15 +14,16 @@ footer {
 }
 
 .social {
-    margin-top: 10em;
     background-color: beige;
     border-radius: 2em;
     min-height: 2em;
     font-size: 1.5em;
-    width: 90%;
     margin-left: auto;
     margin-right: auto;
+    margin-bottom: 1em;
     text-align: center;
+    bottom: 0;
+    position: fixed;
 }
 
 .social-icon {
