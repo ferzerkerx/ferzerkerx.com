@@ -1,18 +1,26 @@
 {{ partial "header.html" . }}
 
-<div class="row main-row">
+<div class="row main-row main-single-publication">
 
     <div class="col-xs-2 left">
         {{ partial "navbar.html" . }}
     </div>
     <div class="col-xs-8 col-md-10 content">
 
-        <article>
+        <article class="publication-content-single">
             <header>
-                <h1>{{ .Title }}</h1>
-                <h3>{{ .Date.Format "Mon, Jan 2, 2006" }}</h3>
+                <p class="publication-title">
+                    {{ .Title }}
+                    {{ if eq .Type "post" }}
+                    <span class="publication-title-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
+                    {{ end }}
+                </p>
+                <hr class="post-hr"/>
+
             </header>
-            {{ .Content }}
+            <div>
+                {{ .Content }}
+            </div>
         </article>
 
     </div>

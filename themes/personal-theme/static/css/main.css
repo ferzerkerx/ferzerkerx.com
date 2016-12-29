@@ -133,8 +133,9 @@ hr {
     margin-bottom: 1em;
 }
 
-.main-project-content {
+.main-single-publication {
     background-color: whitesmoke;
+    min-height: 100vh;
 }
 
 .go-to-repo-btn {
@@ -144,17 +145,21 @@ hr {
     font-size: 1.1em;
 }
 
-.project-content-single {
+.publication-content-single {
     width: 80%;
     text-align: justify;
 }
 
-.project-hr {
+.project-hr, .post-hr {
     margin-top: 0;
     margin-bottom: 1em;
     border-top: 0.3em solid darkgoldenrod;
     width: 80%;
     margin-right: 20%;
+}
+
+.post-hr {
+    width: 100%;
 }
 
 .publication-hr {
