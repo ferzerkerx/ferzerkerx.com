@@ -141,11 +141,10 @@ hr {
     min-height: 100vh;
 }
 
-/*TODO change it to absolute*/
 .go-to-repo-btn {
-    position: fixed;
+    position: absolute;
     top: 2em;
-    right: 10em;
+    right: 0em;
     font-size: 1.1em;
 }
 
@@ -172,7 +171,6 @@ hr {
     padding-bottom: 1em;
     border-radius: 15px 50px 30px 5px;
     margin-bottom: 1em;
-    /*border: solid 1px;*/
 }
 
 .list-content {
@@ -212,10 +210,6 @@ hr {
     color: dimgray;
 }
 
-.row {
-    /*border: solid 1px;*/
-}
-
 .left {
     padding-left: 0;
 }
@@ -232,14 +226,14 @@ hr {
 }
 
 .single-publication {
-    width: 90%;
+    width: 95%;
     margin-left: auto;
     margin-right: auto;
     text-align: justify;
 }
 
 .single-publication-project {
-    width: 80%;
+    width: 85%;
 }
 
 .section-header {
