@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Post-rsses on Ferzerkerx</title>
-    <link>http://www.ferzerkerx.com/site/post/index.xml</link>
+    <link>http://ferzerkerx.github.io/site/post/index.xml</link>
     <description>Recent content in Post-rsses on Ferzerkerx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Fernando Montes</copyright>
     <lastBuildDate>Fri, 18 Nov 2016 07:05:53 -0500</lastBuildDate>
-    <atom:link href="http://www.ferzerkerx.com/site/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ferzerkerx.github.io/site/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Sample post</title>
-      <link>http://www.ferzerkerx.com/site/post/sample-post/</link>
+      <link>http://ferzerkerx.github.io/site/post/sample-post/</link>
       <pubDate>Fri, 18 Nov 2016 07:05:53 -0500</pubDate>
       
-      <guid>http://www.ferzerkerx.com/site/post/sample-post/</guid>
+      <guid>http://ferzerkerx.github.io/site/post/sample-post/</guid>
       <description>&lt;p&gt;Coming soon&lt;/p&gt;
 </description>
     </item>
