@@ -13,22 +13,23 @@
         <div class="row">
 
             <div class="col-xs-4 col-md-5 index-section project-content">
-                <section id="projects">
-                <h1>Projects</h1>
+                <section>
+                <h1 class="section-title">Projects</h1>
                 <div>
 
                     {{ range first 4 (where .Data.Pages "Section" "project") }}
 
                     <div class="row index-row">
-                        <div class="section-heading">
-                            <h3>{{ with .Title }}{{ . | markdownify }}{{ end }}</h3>
+                        <div>
+                            <h3 class="section-title">{{ with .Title }}{{ . | markdownify }}{{ end }}</h3>
                             <h6>{{ .Date.Format "Mon, Jan 2, 2006" }}</h6>
                             <div>
                                 {{ .Params.link }}
                                 <p>
                                     {{ .Summary }}
                                     <br/>
-                                    <a href="{{ .Permalink }}">Continue Reading</a>
+                                    <a href="{{ .Permalink }}">Continue Reading <i class="fa fa-caret-right"></i>
+                                    </a>
                                 </p>
                             </div>
 
@@ -42,18 +43,18 @@
             </div>
 
             <div class="col-xs-4 col-md-5 index-section post-content">
-                <section id="posts">
-                <h1>Posts</h1>
+                <section>
+                <h1 class="section-title">Posts</h1>
                 <div>
                     {{ range first 4 (where .Data.Pages "Section" "post") }}
                     <div class="row index-row">
-                        <div class="section-heading">
-                            <h3>{{ with .Title }}{{ . | markdownify }}{{ end }}</h3>
+                        <div>
+                            <h3 class="section-title">{{ with .Title }}{{ . | markdownify }}{{ end }}</h3>
                             <h6>{{ .Date.Format "Mon, Jan 2, 2006" }}</h6>
 
                             {{ .Summary }}
                             <br/>
-                            <a href="{{ .Permalink }}">Continue Reading</a>
+                            <a href="{{ .Permalink }}">Continue Reading <i class="fa fa-caret-right"></i></a>
                         </div>
 
                     </div>
