@@ -1,5 +1,5 @@
 baseurl = "http://www.ferzerkerx.com/"
-title = "ferzerkerx"
+title = "Ferzerkerx"
 languageCode = "en-us"
 theme = "personal-theme"
 copyright = "&copy; 2016 Fernando Montes"
@@ -11,10 +11,8 @@ max_post_count=10
 
 [[menu.main]]
   name = "Posts"
-  url = "#posts"
-  weight = 1
+  url = "/post/"
 
 [[menu.main]]
   name = "Projects"
-  url = "#projects"
-  weight = 2
+  url = "/project/"
