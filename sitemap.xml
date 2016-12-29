@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.ferzerkerx.com/</loc>
+    <loc>http://www.ferzerkerx.com/site/</loc>
     <lastmod>2016-11-18T07:05:53-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.ferzerkerx.com/post/sample-post/</loc>
+    <loc>http://www.ferzerkerx.com/site/post/sample-post/</loc>
     <lastmod>2016-11-18T07:05:53-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.ferzerkerx.com/project/git-greenseer/</loc>
+    <loc>http://www.ferzerkerx.com/site/project/git-greenseer/</loc>
   </url>
   
 </urlset>
