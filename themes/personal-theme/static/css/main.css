@@ -241,3 +241,13 @@ hr {
 .single-publication-project {
     width: 80%;
 }
+
+.section-header {
+    position: relative;
+}
+
+.view-all {
+    position: absolute;
+    right: 2em;
+    top: 1em;
+}
