@@ -7,13 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Fernando Montes</copyright>
-    <lastBuildDate>Fri, 18 Nov 2016 07:05:53 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 29 Dec 2016 20:39:11 +0000</lastBuildDate>
     <atom:link href="http://ferzerkerx.github.io/site/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Git Greenseer</title>
       <link>http://ferzerkerx.github.io/site/project/git-greenseer/</link>
-      <pubDate>Fri, 18 Nov 2016 07:05:53 -0500</pubDate>
+      <pubDate>Thu, 29 Dec 2016 20:39:11 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/project/git-greenseer/</guid>
       <description>&lt;p&gt;A static git repository tool analyzer. It calculates the total contribution per category / project by developer

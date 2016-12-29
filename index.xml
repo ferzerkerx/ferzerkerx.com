@@ -7,13 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Fernando Montes</copyright>
-    <lastBuildDate>Fri, 18 Nov 2016 07:05:53 -0500</lastBuildDate>
+    <lastBuildDate>Thu, 29 Dec 2016 20:42:15 +0000</lastBuildDate>
     <atom:link href="http://ferzerkerx.github.io/site/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FreeCodeCamp Pomodoro</title>
+      <link>http://ferzerkerx.github.io/site/post/fcc-pomodoro/</link>
+      <pubDate>Thu, 29 Dec 2016 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/post/fcc-pomodoro/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been working on the tasks for the FreeCodeCamp program and having a lot of fun in the process. This is my implementation of the pomodoro assignment&lt;/p&gt;
+
+&lt;p&gt;&lt;p data-height=&#34;560&#34; data-theme-id=&#34;0&#34; data-slug-hash=&#34;XKWjjp&#34; data-default-tab=&#34;js,result&#34; data-user=&#34;ferzerkerx&#34; data-embed-version=&#34;2&#34; data-pen-title=&#34;FCC Pomodoro&#34; class=&#34;codepen&#34;&gt;See the Pen &lt;a href=&#34;http://codepen.io/ferzerkerx/pen/XKWjjp/&#34;&gt;FCC Pomodoro&lt;/a&gt; by Fernando Montes (&lt;a href=&#34;http://codepen.io/ferzerkerx&#34;&gt;@ferzerkerx&lt;/a&gt;) on &lt;a href=&#34;http://codepen.io&#34;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async src=&#34;https://production-assets.codepen.io/assets/embed/ei.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Git Greenseer</title>
       <link>http://ferzerkerx.github.io/site/project/git-greenseer/</link>
-      <pubDate>Fri, 18 Nov 2016 07:05:53 -0500</pubDate>
+      <pubDate>Thu, 29 Dec 2016 20:39:11 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/project/git-greenseer/</guid>
       <description>&lt;p&gt;A static git repository tool analyzer. It calculates the total contribution per category / project by developer
@@ -29,16 +42,6 @@ specific categories on the code.&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;Contribution per developer for each category. (shows a pie chart)
 &lt;img src=&#34;https://raw.githubusercontent.com/ferzerkerx/git-greenseer/master/screenshots/dev_vew.png&#34; class=&#34;project-img img-responsive&#34;/&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sample post</title>
-      <link>http://ferzerkerx.github.io/site/post/sample-post/</link>
-      <pubDate>Fri, 18 Nov 2016 07:05:53 -0500</pubDate>
-      
-      <guid>http://ferzerkerx.github.io/site/post/sample-post/</guid>
-      <description>&lt;p&gt;Coming soon&lt;/p&gt;
 </description>
     </item>
     
