@@ -4,6 +4,7 @@ Tags = []
 Categories = []
 Title = "Git Greenseer"
 link = "https://github.com/ferzerkerx/git-greenseer/"
+Date = "2016-11-18T07:05:53-05:00"
 +++
 A static git repository tool analyzer. It calculates the total contribution per category / project by developer 
 and it generates a report displaying charts with this information. It helps to understand which developers own or understand
