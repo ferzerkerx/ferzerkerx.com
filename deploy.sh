@@ -5,6 +5,7 @@ cp -R public/* .
 rm -Rf content/
 rm -Rf themes/
 rm -Rf public/
-rm config.toml
+git add .
 git commit -m "site update"
 git push origin gh-pages
+git checkout master
