@@ -88,12 +88,12 @@ footer {
 
 .project-title {
     display: inline-block;
-    color: darkolivegreen;
+    color: darkgray;
     font-size: 3em;
 }
 
 .publication-title {
-    color: darkolivegreen;
+    color: darkgray;
     font-size: 2.5em;
     width: 100%;
     position: relative;
@@ -138,10 +138,11 @@ hr {
     min-height: 100vh;
 }
 
+/*TODO change it to absolute*/
 .go-to-repo-btn {
     position: fixed;
     top: 2em;
-    right: 4em;
+    right: 10em;
     font-size: 1.1em;
 }
 
@@ -153,7 +154,7 @@ hr {
 .project-hr, .post-hr {
     margin-top: 0;
     margin-bottom: 1em;
-    border-top: 0.3em solid darkgoldenrod;
+    border-top: 0.3em solid darkseagreen;
     width: 80%;
     margin-right: 20%;
 }
@@ -165,7 +166,7 @@ hr {
 .publication-hr {
     margin-top: 0;
     margin-bottom: 1em;
-    border-top: 0.3em solid darkgoldenrod;
+    border-top: 0.3em solid darkseagreen;
 }
 
 .list-element {
@@ -173,6 +174,7 @@ hr {
     padding-bottom: 1em;
     border-radius: 15px 50px 30px 5px;
     margin-bottom: 1em;
+    /*border: solid 1px;*/
 }
 
 .list-content {
@@ -187,14 +189,14 @@ hr {
     display: block;
  }
 
-.list-content div:nth-child(even) {
-    background-color: beige;
+/*.list-content div:nth-child(even) {*/
+    /*background-color: beige;*/
 
-}
+/*}*/
 
-.list-content div:nth-child(odd) {
-    background-color: whitesmoke;
-}
+/*.list-content div:nth-child(odd) {*/
+    /*background-color: whitesmoke;*/
+/*}*/
 
 .publication-title-date {
     position: absolute;
@@ -210,4 +212,17 @@ hr {
 
 .section-title {
     color: dimgray;
+}
+
+.row {
+    /*border: solid 1px;*/
+}
+
+.left {
+    padding-left: 0;
+}
+
+.index-section {
+    margin-left: 2em;
+    margin-right: 2em;
 }
