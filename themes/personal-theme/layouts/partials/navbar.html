@@ -15,7 +15,7 @@
                     <li><p>Navigation</p></li>
                     {{ range .Site.Menus.main }}
                     <li class="nav-item">
-                        <a href="{{ .URL | relURL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}>
+                        <a href="{{ .URL }}"{{ if $.IsHome }} data-target="{{ .URL }}"{{ end }}>
                             {{ .Name }}
                         </a>
                     </li>
