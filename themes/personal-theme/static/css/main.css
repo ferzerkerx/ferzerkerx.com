@@ -92,6 +92,14 @@ footer {
     font-size: 3em;
 }
 
+.publication-title {
+    color: darkolivegreen;
+    font-size: 2.5em;
+    width: 100%;
+    position: relative;
+    margin-bottom: 0;
+}
+
 hr {
     margin-top: 0;
     margin-bottom: 0;
@@ -110,7 +118,7 @@ hr {
 
 
 .post-content {
-    background-color: blanchedalmond;
+    background-color: beige;
     padding-top: 1em;
     padding-bottom: 1em;
     border-radius: 15px 50px 30px 5px;
@@ -149,12 +157,52 @@ hr {
     margin-right: 20%;
 }
 
-/*
+.publication-hr {
+    margin-top: 0;
+    margin-bottom: 1em;
+    border-top: 0.3em solid darkgoldenrod;
+}
 
-    border-radius: 15px 50px 0px 5px;
-    padding-right: 1em;
-    margin-bottom: 0;
-    margin-left: 0.2em;
-    background-color: red;
+.list-element {
+    padding-top: 0.2em;
+    padding-bottom: 1em;
+    border-radius: 15px 50px 30px 5px;
+    margin-bottom: 1em;
+}
 
- */
+.list-content {
+    margin-top: 2%;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.list-element-content {
+    margin-left: 1em;
+    display: block;
+ }
+
+.list-content div:nth-child(even) {
+    background-color: beige;
+
+}
+
+.list-content div:nth-child(odd) {
+    background-color: whitesmoke;
+}
+
+.publication-title-date {
+    position: absolute;
+    right: 1em;
+    text-align: right;
+    font-size: 0.5em;
+    margin-top: 1em;
+}
+
+.continue-reading {
+    margin-right: 1em;
+}
+
+.section-title {
+    color: dimgray;
+}
