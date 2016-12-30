@@ -7,8 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Fernando Montes</copyright>
-    <lastBuildDate>Thu, 29 Dec 2016 20:42:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Dec 2016 17:32:56 +0000</lastBuildDate>
     <atom:link href="http://ferzerkerx.github.io/site/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>FreeCodeCamp Simon Says</title>
+      <link>http://ferzerkerx.github.io/site/post/fcc-simon-says/</link>
+      <pubDate>Fri, 30 Dec 2016 17:32:56 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/post/fcc-simon-says/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been working on the tasks for the FreeCodeCamp program. This is my implementation of the pomodoro assignment
+&lt;p data-height=&#34;560&#34; data-theme-id=&#34;0&#34; data-slug-hash=&#34;LZpxaE&#34; data-default-tab=&#34;js,result&#34; data-user=&#34;ferzerkerx&#34; data-embed-version=&#34;2&#34; data-pen-title=&#34;FCC Simon Says&#34; class=&#34;codepen&#34;&gt;See the Pen &lt;a href=&#34;http://codepen.io/ferzerkerx/pen/LZpxaE/&#34;&gt;FCC Simon Says&lt;/a&gt; by Fernando Montes (&lt;a href=&#34;http://codepen.io/ferzerkerx&#34;&gt;@ferzerkerx&lt;/a&gt;) on &lt;a href=&#34;http://codepen.io&#34;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async src=&#34;https://production-assets.codepen.io/assets/embed/ei.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>FreeCodeCamp Pomodoro</title>
@@ -16,7 +28,7 @@
       <pubDate>Thu, 29 Dec 2016 20:42:15 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/post/fcc-pomodoro/</guid>
-      <description>&lt;p&gt;I&amp;rsquo;ve been working on the tasks for the FreeCodeCamp program and having a lot of fun in the process. This is my implementation of the pomodoro assignment&lt;/p&gt;
+      <description>&lt;p&gt;I&amp;rsquo;ve been working on the tasks for the FreeCodeCamp program. This is my implementation of the pomodoro assignment&lt;/p&gt;
 
 &lt;p&gt;&lt;p data-height=&#34;560&#34; data-theme-id=&#34;0&#34; data-slug-hash=&#34;XKWjjp&#34; data-default-tab=&#34;js,result&#34; data-user=&#34;ferzerkerx&#34; data-embed-version=&#34;2&#34; data-pen-title=&#34;FCC Pomodoro&#34; class=&#34;codepen&#34;&gt;See the Pen &lt;a href=&#34;http://codepen.io/ferzerkerx/pen/XKWjjp/&#34;&gt;FCC Pomodoro&lt;/a&gt; by Fernando Montes (&lt;a href=&#34;http://codepen.io/ferzerkerx&#34;&gt;@ferzerkerx&lt;/a&gt;) on &lt;a href=&#34;http://codepen.io&#34;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
 &lt;script async src=&#34;https://production-assets.codepen.io/assets/embed/ei.js&#34;&gt;&lt;/script&gt;&lt;/p&gt;
