@@ -1,11 +1,12 @@
 {{ partial "header.html" . }}
+{{ partial "navbar-mobile.html" . }}
 
 <div class="row main-row">
 
     <div class="col-xs-2 left">
         {{ partial "navbar.html" . }}
     </div>
-    <div class="col-xs-8 col-md-10 content list-content">
+    <div class="col-xs-10 col-md-10 content list-content">
         <h1 class="section-title">{{ .Title }}</h1>
 
         {{ range .Data.Pages }}
