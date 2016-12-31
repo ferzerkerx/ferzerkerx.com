@@ -61,15 +61,6 @@ footer {
     cursor: pointer;
 }
 
-.nav > li, .nav > li :hover {
-    float: none;
-    border-radius: 2em;
-}
-
-.nav > li > a {
-    padding: 5px;
-}
-
 .project-img {
 }
 
@@ -257,5 +248,14 @@ hr {
         margin-left: 12em;
         padding-top: 0;
         z-index: -1;
+    }
+
+    .nav > li, .nav > li :hover {
+        float: none;
+        border-radius: 2em;
+    }
+
+    .nav > li > a {
+        padding: 5px;
     }
 }
