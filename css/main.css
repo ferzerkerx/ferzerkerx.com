@@ -8,7 +8,7 @@ footer {
     height: 100%;
     position: fixed;
     border-radius: 0px 50px 30px 0px;
-    z-index: 1000;
+    display: none;
 }
 
 #profile-content {
@@ -53,8 +53,6 @@ footer {
 #nav-menu {
     color: lightslategrey;
     font-size: 1.5em;
-    margin: auto;
-    width: 75%;
 }
 
 .nav-item a {
@@ -63,24 +61,7 @@ footer {
     cursor: pointer;
 }
 
-.nav > li, .nav > li :hover {
-    float: none;
-    border-radius: 2em;
-}
-
-.nav > li > a {
-    padding: 5px;
-}
-
-.footer {
-    margin-left: 12em;
-    padding-top: 0;
-    z-index: 500;
-}
-
 .project-img {
-    max-width: 600px;
-    max-height: 500px;
 }
 
 .project-link {
@@ -141,13 +122,6 @@ hr {
     min-height: 100vh;
 }
 
-.go-to-repo-btn {
-    position: absolute;
-    top: 2em;
-    right: 0em;
-    font-size: 1.1em;
-}
-
 .project-hr, .post-hr {
     margin-top: 0;
     margin-bottom: 1em;
@@ -175,7 +149,6 @@ hr {
 
 .list-content {
     margin-top: 2%;
-    width: 70%;
     margin-left: auto;
     margin-right: auto;
 }
@@ -194,12 +167,10 @@ hr {
     /*background-color: whitesmoke;*/
 /*}*/
 
+
 .publication-title-date {
-    position: absolute;
-    right: 1em;
     text-align: right;
     font-size: 0.5em;
-    margin-top: 1em;
 }
 
 .continue-reading {
@@ -215,8 +186,8 @@ hr {
 }
 
 .index-section {
-    margin-left: 2em;
-    margin-right: 2em;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .index-row {
@@ -240,8 +211,50 @@ hr {
     position: relative;
 }
 
-.view-all {
-    position: absolute;
-    right: 2em;
-    top: 1em;
+#mobile-nav-menu {
+    background-color: whitesmoke;
+}
+
+@media(min-width:992px) {
+    .view-all {
+        position: absolute;
+        right: 2em;
+        top: 1em;
+    }
+
+    #mobile-nav-menu {
+        display: none;
+    }
+
+    .go-to-repo-btn {
+        position: absolute;
+        top: 2em;
+        right: 0em;
+        font-size: 1.1em;
+    }
+
+    .publication-title-date {
+        position: absolute;
+        right: 1em;
+        margin-top: 1em;
+    }
+
+    #profile {
+        display: block;
+    }
+
+    .footer {
+        margin-left: 12em;
+        padding-top: 0;
+        z-index: -1;
+    }
+
+    .nav > li, .nav > li :hover {
+        float: none;
+        border-radius: 2em;
+    }
+
+    .nav > li > a {
+        padding: 5px;
+    }
 }
