@@ -67,6 +67,18 @@
     </item>
     
     <item>
+      <title>Album Finder</title>
+      <link>http://ferzerkerx.github.io/site/project/album-finder/</link>
+      <pubDate>Tue, 29 Dec 2015 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/project/album-finder/</guid>
+      <description> Overview:
+ Includes simple CRUD functionality Some features are restricted to admin users  Backend:
+ REST API using SpringMVC User authentication is provided by SpringSecurity CSRF Protection enabled Data Persistence is done using hibernate on a HSQLDB  Front-end:
+ Created using Bootstrap and AngularJS   </description>
+    </item>
+    
+    <item>
       <title>FreeCodeCamp Meteorite Map Data</title>
       <link>http://ferzerkerx.github.io/site/project/fcc-map-data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

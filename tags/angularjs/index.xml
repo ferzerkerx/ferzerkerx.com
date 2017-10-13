@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Angularjs on Ferzerkerx</title>
+    <link>http://ferzerkerx.github.io/site/tags/angularjs/</link>
+    <description>Recent content in Angularjs on Ferzerkerx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Fernando Montes</copyright>
+    <lastBuildDate>Tue, 29 Dec 2015 20:42:15 +0000</lastBuildDate>
+    
+	<atom:link href="http://ferzerkerx.github.io/site/tags/angularjs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Album Finder</title>
+      <link>http://ferzerkerx.github.io/site/project/album-finder/</link>
+      <pubDate>Tue, 29 Dec 2015 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/project/album-finder/</guid>
+      <description> Overview:
+ Includes simple CRUD functionality Some features are restricted to admin users  Backend:
+ REST API using SpringMVC User authentication is provided by SpringSecurity CSRF Protection enabled Data Persistence is done using hibernate on a HSQLDB  Front-end:
+ Created using Bootstrap and AngularJS   </description>
+    </item>
+    
+  </channel>
+</rss>

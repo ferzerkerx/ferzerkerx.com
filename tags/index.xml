@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Fernando Montes</copyright>
-    <lastBuildDate>Thu, 29 Dec 2016 20:39:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Dec 2015 20:42:15 +0000</lastBuildDate>
     
 	<atom:link href="http://ferzerkerx.github.io/site/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Angularjs</title>
+      <link>http://ferzerkerx.github.io/site/tags/angularjs/</link>
+      <pubDate>Tue, 29 Dec 2015 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/tags/angularjs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>D3js</title>
@@ -27,6 +36,15 @@
       <pubDate>Thu, 29 Dec 2016 20:39:11 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hibernate</title>
+      <link>http://ferzerkerx.github.io/site/tags/hibernate/</link>
+      <pubDate>Tue, 29 Dec 2015 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/tags/hibernate/</guid>
       <description></description>
     </item>
     
@@ -63,6 +81,15 @@
       <pubDate>Thu, 29 Dec 2016 20:42:15 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spring</title>
+      <link>http://ferzerkerx.github.io/site/tags/spring/</link>
+      <pubDate>Tue, 29 Dec 2015 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/tags/spring/</guid>
       <description></description>
     </item>
     
