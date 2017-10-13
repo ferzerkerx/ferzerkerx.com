@@ -1,6 +1,6 @@
 +++
 Description = "A static git repository tool analyzer. It calculates the total contribution per category / project by developer and it generates a report displaying charts with this information. It helps to understand which developers own or understand specific categories on the code."
-Tags = []
+Tags = [python, git]
 Categories = []
 Title = "Git Greenseer"
 link = "https://github.com/ferzerkerx/git-greenseer/"

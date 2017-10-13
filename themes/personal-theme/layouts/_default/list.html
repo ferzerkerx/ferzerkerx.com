@@ -17,6 +17,9 @@
                         {{ if eq .Type "post" }}
                         <span class="publication-title-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
                         {{ end }}
+                        {{ if eq .Type "fcc" }}
+                        <span class="publication-title-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
+                        {{ end }}
                     </p>
                     <hr class="publication-hr"/>
                     {{ .Description }}

@@ -45,6 +45,32 @@
             </section>
             </div>
 
+            <div class="col-xs-6 col-md-5 index-section fcc-content">
+                <section class="section-title">
+                <header class="section-header">
+                    <h1>Posts</h1>
+                    <a href="{{ "/fcc/" | relURL}}" class="view-all">View all <i class="fa fa-arrow-right"></i></a>
+                </header>
+                <article>
+                    {{ range first 4 (where .Data.Pages "Section" "fcc") }}
+                    <div class="row index-row">
+                        <div>
+                            <h3 class="section-title">{{ with .Title }}{{ . | markdownify }}{{ end }}</h3>
+                            <h6>{{ .Date.Format "Mon, Jan 2, 2006" }}</h6>
+
+                            {{ .Summary }}
+                            <br/>
+                            <a href="{{ .Permalink }}">Continue Reading <i class="fa fa-caret-right"></i></a>
+                        </div>
+
+                    </div>
+
+
+                    {{ end }}
+                </article>
+            </section>
+            </div>
+
             <div class="col-xs-6 col-md-5 index-section post-content">
                 <section class="section-title">
                 <header class="section-header">

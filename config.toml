@@ -10,9 +10,5 @@ max_post_count=10
 
 
 [[menu.main]]
-  name = "Posts"
-  url = "/post/"
-
-[[menu.main]]
   name = "Projects"
   url = "/project/"
