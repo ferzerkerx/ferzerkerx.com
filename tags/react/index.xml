@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React on Ferzerkerx</title>
+    <link>http://ferzerkerx.github.io/site/tags/react/</link>
+    <description>Recent content in React on Ferzerkerx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Fernando Montes</copyright>
+    <lastBuildDate>Thu, 29 Dec 2016 20:42:15 +0000</lastBuildDate>
+    
+	<atom:link href="http://ferzerkerx.github.io/site/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FreeCodeCamp Dungeon Crawler</title>
+      <link>http://ferzerkerx.github.io/site/project/fcc-dungeon-crawler/</link>
+      <pubDate>Thu, 29 Dec 2016 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/project/fcc-dungeon-crawler/</guid>
+      <description>See the Pen fcc-dungeon-crawler by Fernando Montes (@ferzerkerx) on CodePen.</description>
+    </item>
+    
+    <item>
+      <title>FreeCodeCamp Markdown Preview</title>
+      <link>http://ferzerkerx.github.io/site/project/fcc-markdown-preview/</link>
+      <pubDate>Thu, 29 Dec 2016 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/project/fcc-markdown-preview/</guid>
+      <description>See the Pen FCC-markdown-previewer by Fernando Montes (@ferzerkerx) on CodePen.</description>
+    </item>
+    
+  </channel>
+</rss>

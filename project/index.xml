@@ -2,13 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Ferzerkerx</title>
-    <link>http://ferzerkerx.github.io/site/project/index.xml</link>
+    <link>http://ferzerkerx.github.io/site/project/</link>
     <description>Recent content in Projects on Ferzerkerx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2016 Fernando Montes</copyright>
-    <lastBuildDate>Thu, 29 Dec 2016 20:39:11 +0000</lastBuildDate>
-    <atom:link href="http://ferzerkerx.github.io/site/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 30 Dec 2016 17:32:56 +0000</lastBuildDate>
+    
+	<atom:link href="http://ferzerkerx.github.io/site/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FreeCodeCamp Simon Says</title>
+      <link>http://ferzerkerx.github.io/site/project/fcc-simon-says/</link>
+      <pubDate>Fri, 30 Dec 2016 17:32:56 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/project/fcc-simon-says/</guid>
+      <description>See the Pen FCC Simon Says by Fernando Montes (@ferzerkerx) on CodePen.</description>
+    </item>
+    
+    <item>
+      <title>FreeCodeCamp Chart Stock Market</title>
+      <link>http://ferzerkerx.github.io/site/project/fcc-chart-stock-market/</link>
+      <pubDate>Thu, 29 Dec 2016 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/project/fcc-chart-stock-market/</guid>
+      <description>Description of the assignment here  See it running</description>
+    </item>
+    
+    <item>
+      <title>FreeCodeCamp Dungeon Crawler</title>
+      <link>http://ferzerkerx.github.io/site/project/fcc-dungeon-crawler/</link>
+      <pubDate>Thu, 29 Dec 2016 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/project/fcc-dungeon-crawler/</guid>
+      <description>See the Pen fcc-dungeon-crawler by Fernando Montes (@ferzerkerx) on CodePen.</description>
+    </item>
+    
+    <item>
+      <title>FreeCodeCamp Markdown Preview</title>
+      <link>http://ferzerkerx.github.io/site/project/fcc-markdown-preview/</link>
+      <pubDate>Thu, 29 Dec 2016 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/project/fcc-markdown-preview/</guid>
+      <description>See the Pen FCC-markdown-previewer by Fernando Montes (@ferzerkerx) on CodePen.</description>
+    </item>
+    
+    <item>
+      <title>FreeCodeCamp Pomodoro</title>
+      <link>http://ferzerkerx.github.io/site/project/fcc-pomodoro/</link>
+      <pubDate>Thu, 29 Dec 2016 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/project/fcc-pomodoro/</guid>
+      <description>See the Pen FCC Pomodoro by Fernando Montes (@ferzerkerx) on CodePen.</description>
+    </item>
+    
+    <item>
+      <title>FreeCodeCamp Voting App</title>
+      <link>http://ferzerkerx.github.io/site/project/fcc-voting/</link>
+      <pubDate>Thu, 29 Dec 2016 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/project/fcc-voting/</guid>
+      <description>Description of the assignment here  See it running</description>
+    </item>
     
     <item>
       <title>Git Greenseer</title>
@@ -16,20 +72,18 @@
       <pubDate>Thu, 29 Dec 2016 20:39:11 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/project/git-greenseer/</guid>
-      <description>&lt;p&gt;A static git repository tool analyzer. It calculates the total contribution per category / project by developer
-and it generates a report displaying charts with this information. It helps to understand which developers own or understand
-specific categories on the code.&lt;/p&gt;
-
-&lt;p&gt;Html report shows:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Contribution percentage by category. (shows a bar chart)
-&lt;img src=&#34;https://raw.githubusercontent.com/ferzerkerx/git-greenseer/master/screenshots/category_view.png&#34; class=&#34;project-img img-responsive&#34;/&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Contribution per developer for each category. (shows a pie chart)
-&lt;img src=&#34;https://raw.githubusercontent.com/ferzerkerx/git-greenseer/master/screenshots/dev_vew.png&#34; class=&#34;project-img img-responsive&#34;/&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>A static git repository tool analyzer. It calculates the total contribution per category / project by developer and it generates a report displaying charts with this information. It helps to understand which developers own or understand specific categories on the code.
+Html report shows:
+ Contribution percentage by category. (shows a bar chart)  Contribution per developer for each category. (shows a pie chart)   </description>
+    </item>
+    
+    <item>
+      <title>FreeCodeCamp Meteorite Map Data</title>
+      <link>http://ferzerkerx.github.io/site/project/fcc-map-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/project/fcc-map-data/</guid>
+      <description>See the Pen FCC-Map-Data by Fernando Montes (@ferzerkerx) on CodePen.</description>
     </item>
     
   </channel>

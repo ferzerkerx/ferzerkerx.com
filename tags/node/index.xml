@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Node on Ferzerkerx</title>
+    <link>http://ferzerkerx.github.io/site/tags/node/</link>
+    <description>Recent content in Node on Ferzerkerx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2016 Fernando Montes</copyright>
+    <lastBuildDate>Thu, 29 Dec 2016 20:42:15 +0000</lastBuildDate>
+    
+	<atom:link href="http://ferzerkerx.github.io/site/tags/node/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FreeCodeCamp Chart Stock Market</title>
+      <link>http://ferzerkerx.github.io/site/project/fcc-chart-stock-market/</link>
+      <pubDate>Thu, 29 Dec 2016 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/project/fcc-chart-stock-market/</guid>
+      <description>Description of the assignment here  See it running</description>
+    </item>
+    
+    <item>
+      <title>FreeCodeCamp Voting App</title>
+      <link>http://ferzerkerx.github.io/site/project/fcc-voting/</link>
+      <pubDate>Thu, 29 Dec 2016 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/project/fcc-voting/</guid>
+      <description>Description of the assignment here  See it running</description>
+    </item>
+    
+  </channel>
+</rss>
