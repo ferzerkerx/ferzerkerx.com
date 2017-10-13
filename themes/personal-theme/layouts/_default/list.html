@@ -11,8 +11,8 @@
 
         {{ range $index, $page:=.Data.Pages }}
 
-        {{if eq (mod $index 2) 0 }}
-        <div class="row">
+        {{if (eq (mod $index 2) 0)}}
+            <div class="row">
         {{end}}
 
         <div class="list-element col-xs-6 col-md-5">
@@ -30,7 +30,7 @@
                 </span>
         </div>
 
-        {{if eq (mod $index 2) 0 }}
+        {{if (gt (mod $index 2) 0)}}
         </div>
         {{end}}
         {{ end }}
