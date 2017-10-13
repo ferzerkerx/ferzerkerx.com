@@ -1,7 +1,7 @@
 +++
 Title = "FreeCodeCamp Dungeon Crawler"
 Description = "FreeCodeCamp Dungeon Crawler implementation"
-Tags = [react, javascript]
+Tags = ["react", "javascript"]
 Categories = []
 link = "https://codepen.io/ferzerkerx/pen/LWZodg"
 date = "2016-12-29T20:42:15Z"

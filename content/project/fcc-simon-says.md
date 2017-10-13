@@ -1,7 +1,7 @@
 +++
 Title = "FreeCodeCamp Simon Says"
 Description = "FreeCodeCamp Simon Says implementation"
-Tags = [javascript]
+Tags = ["javascript"]
 Categories = []
 link = "https://codepen.io/ferzerkerx/pen/LZpxaE"
 date = "2016-12-30T17:32:56Z"

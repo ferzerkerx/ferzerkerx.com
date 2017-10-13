@@ -1,7 +1,7 @@
 +++
 Title = "FreeCodeCamp Meteorite Map Data"
 Description = "FreeCodeCamp Meteorite Map Data implementation"
-Tags = [D3js, javascript]
+Tags = ["D3js", "javascript"]
 Categories = []
 link = "https://codepen.io/ferzerkerx/pen/QpzjWv"
 date = "2017-2-18T20:42:15Z"

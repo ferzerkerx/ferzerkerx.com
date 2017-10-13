@@ -1,7 +1,7 @@
 +++
 Title = "FreeCodeCamp Markdown Preview"
 Description = "FreeCodeCamp Markdown Preview implementation"
-Tags = [javascript, react]
+Tags = ["javascript", "react"]
 Categories = []
 link = "https://codepen.io/ferzerkerx/pen/XpqBgr"
 date = "2016-12-29T20:42:15Z"

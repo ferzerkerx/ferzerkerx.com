@@ -1,7 +1,7 @@
 +++
 Title = "FreeCodeCamp Pomodoro"
 Description = "FreeCodeCamp Pomodoro implementation"
-Tags = [javascript]
+Tags = ["javascript"]
 Categories = []
 link = "https://codepen.io/ferzerkerx/pen/XKWjjp"
 date = "2016-12-29T20:42:15Z"

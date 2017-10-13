@@ -1,7 +1,7 @@
 +++
 Title = "FreeCodeCamp Voting App"
 Description = "FreeCodeCamp Voting app implementation"
-Tags = [node, javascript]
+Tags = ["node", "javascript"]
 Categories = []
 link = "https://github.com/ferzerkerx/fcc-chart-stock-market"
 date = "2016-12-29T20:42:15Z"
