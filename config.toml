@@ -2,11 +2,10 @@ baseurl = "http://ferzerkerx.github.io/site/"
 title = "Ferzerkerx"
 languageCode = "en-us"
 theme = "personal-theme"
-copyright = "&copy; 2016 Fernando Montes"
+copyright = "&copy; Fernando Montes"
 
 
 [params]
-max_post_count=10
 
 
 [[menu.main]]

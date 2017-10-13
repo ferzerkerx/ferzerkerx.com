@@ -25,7 +25,6 @@
                         <div class="row index-row">
                             <div>
                                 <h3 class="section-title">{{ with .Title }}{{ . | markdownify }}{{ end }}</h3>
-                                <h6>{{ .Date.Format "Mon, Jan 2, 2006" }}</h6>
                                 <div>
                                     {{ .Params.link }}
                                     <p>

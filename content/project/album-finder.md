@@ -1,7 +1,7 @@
 +++
 Title = "Album Finder"
 Description = "Web application that helps you create and find a list of albums "
-Tags = ["angularjs", "javascript", "hibernate", "spring"]
+Tags = ["angularJs", "javascript", "hibernate", "spring"]
 Categories = []
 link = "https://github.com/ferzerkerx/album-finder"
 date = "2015-12-29T20:42:15Z"

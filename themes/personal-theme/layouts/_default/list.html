@@ -9,23 +9,30 @@
     <div class="col-xs-12 col-md-10 content list-content">
         <h1 class="section-title">{{ .Title }}</h1>
 
-        {{ range .Data.Pages }}
-            <div class="list-element">
+        {{ range $index, $page:=.Data.Pages }}
+
+        {{if eq (mod $index 2) 0 }}
+        <div class="row">
+        {{end}}
+
+        <div class="list-element col-xs-6 col-md-5">
                 <span class="list-element-content">
                     <p class="publication-title">
-                        {{ .Title }}
-                        {{ if eq .Type "post" }}
-                        <span class="publication-title-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</span>
-                        {{ end }}
+                        {{ $page.Title }}
+                        {{$page.Params.tags}}
                     </p>
                     <hr class="publication-hr"/>
-                    {{ .Description }}
+                    {{ $page.Description }}
                     <br/>
                     <p class="text-right continue-reading">
                         <a href="{{ .Permalink }}">Continue Reading <i class="fa fa-caret-right"></i></a>
                     </p>
                 </span>
-            </div>
+        </div>
+
+        {{if eq (mod $index 2) 0 }}
+        </div>
+        {{end}}
         {{ end }}
     </div>
 </div>
