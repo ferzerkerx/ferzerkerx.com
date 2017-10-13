@@ -109,6 +109,14 @@ hr {
     margin-bottom: 1em;
 }
 
+.fcc-content {
+    background-color: beige;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    border-radius: 15px 50px 30px 5px;
+    margin-bottom: 1em;
+}
+
 .project-content {
     background-color: whitesmoke;
     padding-top: 1em;
