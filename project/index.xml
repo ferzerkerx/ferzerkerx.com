@@ -78,6 +78,15 @@ Html report shows:
     </item>
     
     <item>
+      <title>Tree Inspector</title>
+      <link>http://ferzerkerx.github.io/site/project/tree-inspector/</link>
+      <pubDate>Tue, 02 Feb 2016 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/project/tree-inspector/</guid>
+      <description>Renders an adjacency list as a tree and adds some controls to it </description>
+    </item>
+    
+    <item>
       <title>Album Finder</title>
       <link>http://ferzerkerx.github.io/site/project/album-finder/</link>
       <pubDate>Tue, 29 Dec 2015 20:42:15 +0000</pubDate>

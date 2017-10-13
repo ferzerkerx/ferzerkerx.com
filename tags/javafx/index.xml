@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javafx on Ferzerkerx</title>
+    <link>http://ferzerkerx.github.io/site/tags/javafx/</link>
+    <description>Recent content in Javafx on Ferzerkerx</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Fernando Montes</copyright>
+    <lastBuildDate>Tue, 02 Feb 2016 20:42:15 +0000</lastBuildDate>
+    
+	<atom:link href="http://ferzerkerx.github.io/site/tags/javafx/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tree Inspector</title>
+      <link>http://ferzerkerx.github.io/site/project/tree-inspector/</link>
+      <pubDate>Tue, 02 Feb 2016 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/project/tree-inspector/</guid>
+      <description>Renders an adjacency list as a tree and adds some controls to it </description>
+    </item>
+    
+  </channel>
+</rss>
