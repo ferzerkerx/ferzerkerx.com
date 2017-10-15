@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ferzerkerx.github.io/site/project/graphite-demo/</loc>
+    <lastmod>2017-10-15T20:42:15+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://ferzerkerx.github.io/site/project/elasticsearch-demo/</loc>
     <lastmod>2017-10-14T20:42:15+00:00</lastmod>
   </url>
@@ -76,7 +81,7 @@
   
   <url>
     <loc>http://ferzerkerx.github.io/site/</loc>
-    <lastmod>2017-10-14T20:42:15+00:00</lastmod>
+    <lastmod>2017-10-15T20:42:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -91,6 +96,18 @@
   </url>
   
   <url>
+    <loc>http://ferzerkerx.github.io/site/tags/grafana/</loc>
+    <lastmod>2017-10-15T20:42:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ferzerkerx.github.io/site/tags/graphite/</loc>
+    <lastmod>2017-10-15T20:42:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ferzerkerx.github.io/site/tags/hibernate/</loc>
     <lastmod>2015-12-29T20:42:15+00:00</lastmod>
     <priority>0</priority>
@@ -98,7 +115,7 @@
   
   <url>
     <loc>http://ferzerkerx.github.io/site/tags/java/</loc>
-    <lastmod>2017-10-14T20:42:15+00:00</lastmod>
+    <lastmod>2017-10-15T20:42:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -122,7 +139,7 @@
   
   <url>
     <loc>http://ferzerkerx.github.io/site/project/</loc>
-    <lastmod>2017-10-14T20:42:15+00:00</lastmod>
+    <lastmod>2017-10-15T20:42:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -146,7 +163,7 @@
   
   <url>
     <loc>http://ferzerkerx.github.io/site/tags/springboot/</loc>
-    <lastmod>2017-10-14T20:42:15+00:00</lastmod>
+    <lastmod>2017-10-15T20:42:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   

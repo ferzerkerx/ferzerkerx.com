@@ -49,6 +49,24 @@
     </item>
     
     <item>
+      <title>Grafana</title>
+      <link>http://ferzerkerx.github.io/site/tags/grafana/</link>
+      <pubDate>Sun, 15 Oct 2017 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/tags/grafana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graphite</title>
+      <link>http://ferzerkerx.github.io/site/tags/graphite/</link>
+      <pubDate>Sun, 15 Oct 2017 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/tags/graphite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hibernate</title>
       <link>http://ferzerkerx.github.io/site/tags/hibernate/</link>
       <pubDate>Tue, 29 Dec 2015 20:42:15 +0000</pubDate>
@@ -60,7 +78,7 @@
     <item>
       <title>Java</title>
       <link>http://ferzerkerx.github.io/site/tags/java/</link>
-      <pubDate>Sat, 14 Oct 2017 20:42:15 +0000</pubDate>
+      <pubDate>Sun, 15 Oct 2017 20:42:15 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/tags/java/</guid>
       <description></description>
@@ -123,7 +141,7 @@
     <item>
       <title>Springboot</title>
       <link>http://ferzerkerx.github.io/site/tags/springboot/</link>
-      <pubDate>Sat, 14 Oct 2017 20:42:15 +0000</pubDate>
+      <pubDate>Sun, 15 Oct 2017 20:42:15 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/tags/springboot/</guid>
       <description></description>
