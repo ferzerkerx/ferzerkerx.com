@@ -1,7 +1,7 @@
 +++
 Title = "Auto complete input backed by an endpoint using Lucene"
 Description = "FreeCodeCamp Voting app implementation"
-Tags = ["react", "javascript", "lucene", "spring", "java""]
+Tags = ["react", "javascript", "lucene", "spring", "java"]
 Categories = []
 link = "https://github.com/ferzerkerx/lucene-demo-frontend"
 date = "2017-12-03T18:42:15Z"
