@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Fernando Montes</copyright>
-    <lastBuildDate>Thu, 29 Dec 2016 20:42:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Dec 2017 18:42:15 +0000</lastBuildDate>
     
 	<atom:link href="http://ferzerkerx.github.io/site/tags/react/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Auto complete input backed by an endpoint using Lucene</title>
+      <link>http://ferzerkerx.github.io/site/project/lucene-demo/</link>
+      <pubDate>Sun, 03 Dec 2017 18:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/project/lucene-demo/</guid>
+      <description> Auto complete input backed by an endpoint using Lucene Used to search all time books listed here: https://www.goodreads.com/list/show/2681.Time_Magazine_s_All_Time_100_Novels endpoint usage: http://:/books?keyword=&amp;rdquo;[bookTitle|authorName]&amp;rdquo;   </description>
+    </item>
     
     <item>
       <title>FreeCodeCamp Dungeon Crawler</title>

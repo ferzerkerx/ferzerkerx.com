@@ -22,7 +22,7 @@
     </item>
     
     <item>
-      <title>D3.js</title>
+      <title>D3.Js</title>
       <link>http://ferzerkerx.github.io/site/tags/d3.js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -78,7 +78,7 @@
     <item>
       <title>Java</title>
       <link>http://ferzerkerx.github.io/site/tags/java/</link>
-      <pubDate>Sun, 15 Oct 2017 20:42:15 +0000</pubDate>
+      <pubDate>Sun, 03 Dec 2017 18:42:15 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/tags/java/</guid>
       <description></description>
@@ -96,9 +96,18 @@
     <item>
       <title>Javascript</title>
       <link>http://ferzerkerx.github.io/site/tags/javascript/</link>
-      <pubDate>Fri, 30 Dec 2016 17:32:56 +0000</pubDate>
+      <pubDate>Sun, 03 Dec 2017 18:42:15 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lucene</title>
+      <link>http://ferzerkerx.github.io/site/tags/lucene/</link>
+      <pubDate>Sun, 03 Dec 2017 18:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/tags/lucene/</guid>
       <description></description>
     </item>
     
@@ -123,7 +132,7 @@
     <item>
       <title>React</title>
       <link>http://ferzerkerx.github.io/site/tags/react/</link>
-      <pubDate>Thu, 29 Dec 2016 20:42:15 +0000</pubDate>
+      <pubDate>Sun, 03 Dec 2017 18:42:15 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/tags/react/</guid>
       <description></description>
@@ -132,7 +141,7 @@
     <item>
       <title>Spring</title>
       <link>http://ferzerkerx.github.io/site/tags/spring/</link>
-      <pubDate>Tue, 29 Dec 2015 20:42:15 +0000</pubDate>
+      <pubDate>Sun, 03 Dec 2017 18:42:15 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/tags/spring/</guid>
       <description></description>
