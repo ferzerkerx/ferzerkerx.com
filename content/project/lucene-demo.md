@@ -1,5 +1,5 @@
 +++
-Title = "Auto complete input backed by an endpoint using Lucene"
+Title = "Lucene Auto complete input"
 Description = "FreeCodeCamp Voting app implementation"
 Tags = ["react", "javascript", "lucene", "spring", "java"]
 Categories = []
