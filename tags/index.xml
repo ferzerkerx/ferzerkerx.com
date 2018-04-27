@@ -7,17 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Fernando Montes</copyright>
-    <lastBuildDate>Tue, 29 Dec 2015 20:42:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Apr 2018 20:42:15 +0000</lastBuildDate>
     
 	<atom:link href="http://ferzerkerx.github.io/site/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Angularjs</title>
-      <link>http://ferzerkerx.github.io/site/tags/angularjs/</link>
-      <pubDate>Tue, 29 Dec 2015 20:42:15 +0000</pubDate>
+      <title>Angular 5</title>
+      <link>http://ferzerkerx.github.io/site/tags/angular-5/</link>
+      <pubDate>Sat, 28 Apr 2018 20:42:15 +0000</pubDate>
       
-      <guid>http://ferzerkerx.github.io/site/tags/angularjs/</guid>
+      <guid>http://ferzerkerx.github.io/site/tags/angular-5/</guid>
       <description></description>
     </item>
     
@@ -69,7 +69,7 @@
     <item>
       <title>Hibernate</title>
       <link>http://ferzerkerx.github.io/site/tags/hibernate/</link>
-      <pubDate>Tue, 29 Dec 2015 20:42:15 +0000</pubDate>
+      <pubDate>Fri, 20 Apr 2018 20:42:15 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/tags/hibernate/</guid>
       <description></description>
@@ -81,6 +81,15 @@
       <pubDate>Tue, 02 Jan 2018 20:42:15 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java9</title>
+      <link>http://ferzerkerx.github.io/site/tags/java9/</link>
+      <pubDate>Fri, 20 Apr 2018 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/tags/java9/</guid>
       <description></description>
     </item>
     
@@ -150,7 +159,7 @@
     <item>
       <title>Spring</title>
       <link>http://ferzerkerx.github.io/site/tags/spring/</link>
-      <pubDate>Sun, 03 Dec 2017 18:42:15 +0000</pubDate>
+      <pubDate>Fri, 20 Apr 2018 20:42:15 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/tags/spring/</guid>
       <description></description>
@@ -162,6 +171,15 @@
       <pubDate>Tue, 02 Jan 2018 20:42:15 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/tags/springboot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Typescript</title>
+      <link>http://ferzerkerx.github.io/site/tags/typescript/</link>
+      <pubDate>Sat, 28 Apr 2018 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/tags/typescript/</guid>
       <description></description>
     </item>
     

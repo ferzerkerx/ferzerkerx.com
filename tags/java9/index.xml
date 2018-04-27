@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Spring on Ferzerkerx</title>
-    <link>http://ferzerkerx.github.io/site/tags/spring/</link>
-    <description>Recent content in Spring on Ferzerkerx</description>
+    <title>Java9 on Ferzerkerx</title>
+    <link>http://ferzerkerx.github.io/site/tags/java9/</link>
+    <description>Recent content in Java9 on Ferzerkerx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Fernando Montes</copyright>
     <lastBuildDate>Fri, 20 Apr 2018 20:42:15 +0000</lastBuildDate>
     
-	<atom:link href="http://ferzerkerx.github.io/site/tags/spring/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ferzerkerx.github.io/site/tags/java9/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,15 +19,6 @@
       
       <guid>http://ferzerkerx.github.io/site/project/album-finder-api/</guid>
       <description> Overview:  Includes simple CRUD functionality REST API using SpringMVC User authentication is provided by SpringSecurity CSRF Protection enabled Data Persistence is done using hibernate on a HSQLDB   </description>
-    </item>
-    
-    <item>
-      <title>Lucene Auto complete input</title>
-      <link>http://ferzerkerx.github.io/site/project/lucene-demo/</link>
-      <pubDate>Sun, 03 Dec 2017 18:42:15 +0000</pubDate>
-      
-      <guid>http://ferzerkerx.github.io/site/project/lucene-demo/</guid>
-      <description> Auto complete input backed by an endpoint using Lucene Used to search all time books listed here: https://www.goodreads.com/list/show/2681.Time_Magazine_s_All_Time_100_Novels endpoint usage: http://:/books?keyword=&amp;rdquo;[bookTitle|authorName]&amp;rdquo;   </description>
     </item>
     
   </channel>
