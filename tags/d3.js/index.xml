@@ -7,6 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Fernando Montes</copyright>
+    <lastBuildDate>Sat, 18 Feb 2017 20:42:15 +0000</lastBuildDate>
     
 	<atom:link href="http://ferzerkerx.github.io/site/tags/d3.js/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +15,7 @@
     <item>
       <title>FreeCodeCamp Meteorite Map Data</title>
       <link>http://ferzerkerx.github.io/site/project/fcc-map-data/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 Feb 2017 20:42:15 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/project/fcc-map-data/</guid>
       <description>See the Pen FCC-Map-Data by Fernando Montes (@ferzerkerx) on CodePen.</description>

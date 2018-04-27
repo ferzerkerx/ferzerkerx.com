@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Record Store API</title>
+      <link>http://ferzerkerx.github.io/site/project/record-store-api/</link>
+      <pubDate>Tue, 20 Mar 2018 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/project/record-store-api/</guid>
+      <description> Overview:  Includes simple CRUD functionality REST API using SpringMVC JPA provider is hibernate   </description>
+    </item>
+    
+    <item>
       <title>Lucene Auto complete input</title>
       <link>http://ferzerkerx.github.io/site/project/lucene-demo/</link>
       <pubDate>Sun, 03 Dec 2017 18:42:15 +0000</pubDate>
