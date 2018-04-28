@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Fernando Montes</copyright>
-    <lastBuildDate>Tue, 20 Mar 2018 20:42:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Apr 2018 20:42:15 +0000</lastBuildDate>
     
 	<atom:link href="http://ferzerkerx.github.io/site/tags/java/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Album Finder API</title>
+      <link>http://ferzerkerx.github.io/site/project/album-finder-api/</link>
+      <pubDate>Fri, 20 Apr 2018 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/project/album-finder-api/</guid>
+      <description> Overview:  Includes simple CRUD functionality REST API using SpringMVC User authentication is provided by SpringSecurity CSRF Protection enabled Data Persistence is done using hibernate on a HSQLDB   </description>
+    </item>
     
     <item>
       <title>Record Store API</title>
