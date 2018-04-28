@@ -1,7 +1,7 @@
 +++
 Title = "Album Finder API"
 Description = "Spring security + hibernate demo application"
-Tags = ["hibernate", "spring", "java9"]
+Tags = ["hibernate", "spring", "java"]
 Categories = []
 link = "https://github.com/ferzerkerx/album-finder"
 date = "2018-04-20T20:42:15Z"
