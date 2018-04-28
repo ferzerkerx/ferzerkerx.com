@@ -1,7 +1,7 @@
 +++
 Title = "Tweezer OpenGL"
 Description = "Tweezer Animation in OpenGL"
-Tags = [cpp", "opengl"]
+Tags = ["cpp", "opengl"]
 Categories = []
 link = "https://github.com/ferzerkerx/tweezer-gl-animation"
 date = "2015-04-20T20:42:15Z"
