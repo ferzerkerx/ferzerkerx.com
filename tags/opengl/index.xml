@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Fernando Montes</copyright>
-    <lastBuildDate>Mon, 20 Apr 2015 20:42:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Apr 2018 20:42:15 +0000</lastBuildDate>
     
 	<atom:link href="http://ferzerkerx.github.io/site/tags/opengl/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Viking Engine OpenGL</title>
+      <link>http://ferzerkerx.github.io/site/project/viking-engine/</link>
+      <pubDate>Sun, 29 Apr 2018 20:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/project/viking-engine/</guid>
+      <description>Viking engine is a very simple game engine for opengl, based on the nehe tutorials and done as a project for academic purposes. I found the project (originally for windows) and migrated it to Linux.  class=&amp;ldquo;project-img img-responsive&amp;rdquo;/&amp;gt;</description>
+    </item>
     
     <item>
       <title>Tweezer OpenGL</title>
