@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ferzerkerx.github.io/site/project/sonarqube-aws/</loc>
+    <lastmod>2018-05-09T10:42:15+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://ferzerkerx.github.io/site/project/viking-engine/</loc>
     <lastmod>2018-04-29T20:42:15+00:00</lastmod>
   </url>
@@ -99,6 +104,12 @@
   </url>
   
   <url>
+    <loc>http://ferzerkerx.github.io/site/tags/aws/</loc>
+    <lastmod>2018-05-09T10:42:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ferzerkerx.github.io/site/categories/</loc>
     <priority>0</priority>
   </url>
@@ -123,7 +134,7 @@
   
   <url>
     <loc>http://ferzerkerx.github.io/site/</loc>
-    <lastmod>2018-04-29T20:42:15+00:00</lastmod>
+    <lastmod>2018-05-09T10:42:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -200,8 +211,14 @@
   </url>
   
   <url>
+    <loc>http://ferzerkerx.github.io/site/tags/postgresql/</loc>
+    <lastmod>2018-05-09T10:42:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ferzerkerx.github.io/site/project/</loc>
-    <lastmod>2018-04-29T20:42:15+00:00</lastmod>
+    <lastmod>2018-05-09T10:42:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -214,6 +231,12 @@
   <url>
     <loc>http://ferzerkerx.github.io/site/tags/react/</loc>
     <lastmod>2017-12-03T18:42:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ferzerkerx.github.io/site/tags/sonarqube/</loc>
+    <lastmod>2018-05-09T10:42:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -232,6 +255,12 @@
   <url>
     <loc>http://ferzerkerx.github.io/site/tags/</loc>
     <lastmod>2018-04-28T20:42:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ferzerkerx.github.io/site/tags/terraform/</loc>
+    <lastmod>2018-05-09T10:42:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   

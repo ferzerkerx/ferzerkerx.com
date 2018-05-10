@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Aws</title>
+      <link>http://ferzerkerx.github.io/site/tags/aws/</link>
+      <pubDate>Wed, 09 May 2018 10:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cpp</title>
       <link>http://ferzerkerx.github.io/site/tags/cpp/</link>
       <pubDate>Sun, 29 Apr 2018 20:42:15 +0000</pubDate>
@@ -157,6 +166,15 @@
     </item>
     
     <item>
+      <title>Postgresql</title>
+      <link>http://ferzerkerx.github.io/site/tags/postgresql/</link>
+      <pubDate>Wed, 09 May 2018 10:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/tags/postgresql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Python</title>
       <link>http://ferzerkerx.github.io/site/tags/python/</link>
       <pubDate>Thu, 29 Dec 2016 20:39:11 +0000</pubDate>
@@ -175,6 +193,15 @@
     </item>
     
     <item>
+      <title>Sonarqube</title>
+      <link>http://ferzerkerx.github.io/site/tags/sonarqube/</link>
+      <pubDate>Wed, 09 May 2018 10:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/tags/sonarqube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Spring</title>
       <link>http://ferzerkerx.github.io/site/tags/spring/</link>
       <pubDate>Fri, 20 Apr 2018 20:42:15 +0000</pubDate>
@@ -189,6 +216,15 @@
       <pubDate>Tue, 02 Jan 2018 20:42:15 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/tags/springboot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terraform</title>
+      <link>http://ferzerkerx.github.io/site/tags/terraform/</link>
+      <pubDate>Wed, 09 May 2018 10:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/tags/terraform/</guid>
       <description></description>
     </item>
     
