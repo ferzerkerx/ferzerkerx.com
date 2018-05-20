@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ferzerkerx.github.io/site/project/map-event/</loc>
+    <lastmod>2018-05-19T10:42:15+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://ferzerkerx.github.io/site/project/sonarqube-aws/</loc>
     <lastmod>2018-05-09T10:42:15+00:00</lastmod>
   </url>
@@ -134,7 +139,7 @@
   
   <url>
     <loc>http://ferzerkerx.github.io/site/</loc>
-    <lastmod>2018-05-09T10:42:15+00:00</lastmod>
+    <lastmod>2018-05-19T10:42:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -193,6 +198,12 @@
   </url>
   
   <url>
+    <loc>http://ferzerkerx.github.io/site/tags/js/</loc>
+    <lastmod>2018-05-19T10:42:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ferzerkerx.github.io/site/tags/lucene/</loc>
     <lastmod>2017-12-03T18:42:15+00:00</lastmod>
     <priority>0</priority>
@@ -200,7 +211,7 @@
   
   <url>
     <loc>http://ferzerkerx.github.io/site/tags/node/</loc>
-    <lastmod>2016-12-29T20:42:15+00:00</lastmod>
+    <lastmod>2018-05-19T10:42:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -218,7 +229,7 @@
   
   <url>
     <loc>http://ferzerkerx.github.io/site/project/</loc>
-    <lastmod>2018-05-09T10:42:15+00:00</lastmod>
+    <lastmod>2018-05-19T10:42:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -261,6 +272,12 @@
   <url>
     <loc>http://ferzerkerx.github.io/site/tags/terraform/</loc>
     <lastmod>2018-05-09T10:42:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ferzerkerx.github.io/site/tags/topojson/</loc>
+    <lastmod>2018-05-19T10:42:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
