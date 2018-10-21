@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Fernando Montes</copyright>
-    <lastBuildDate>Sat, 19 May 2018 10:42:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Oct 2018 10:42:15 +0000</lastBuildDate>
     
 	<atom:link href="http://ferzerkerx.github.io/site/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lego Workstream</title>
+      <link>http://ferzerkerx.github.io/site/project/lego-work-stream-slack/</link>
+      <pubDate>Sun, 21 Oct 2018 10:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/project/lego-work-stream-slack/</guid>
+      <description> Overview:  The slackbot helps your team to track their workstream Query metrics and find trends   </description>
+    </item>
     
     <item>
       <title>Map Event</title>
@@ -36,7 +45,7 @@
       <pubDate>Sun, 29 Apr 2018 20:42:15 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/project/viking-engine/</guid>
-      <description>Viking engine is a very simple game engine for opengl, based on the nehe tutorials and done as a project for academic purposes. Project was originally for windows and migrated it to Linux.  class=&amp;ldquo;project-img img-responsive&amp;rdquo;/&amp;gt;</description>
+      <description>Viking engine is a very simple game engine for opengl, based on the nehe tutorials and done as a project for academic purposes. Project was originally for windows and migrated it to Linux.  class=&amp;ldquo;project-img img-fluid&amp;rdquo;/&amp;gt;</description>
     </item>
     
     <item>
