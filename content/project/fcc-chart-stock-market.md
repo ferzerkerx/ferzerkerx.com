@@ -11,4 +11,4 @@ Description of the assignment <a href="https://www.freecodecamp.com/challenges/c
 <br/>
 <a href="https://damp-sands-17502.herokuapp.com/" target="_blank">See it running</a>
 
-<img src="https://github.com/ferzerkerx/fcc-chart-stock-market/blob/master/fcc-stock-market.png" class="project-img img-responsive"/>
+<img src="https://github.com/ferzerkerx/fcc-chart-stock-market/blob/master/fcc-stock-market.png" class="project-img img-fluid"/>

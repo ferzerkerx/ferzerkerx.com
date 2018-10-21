@@ -15,9 +15,9 @@ specific categories on the code.
 Html report shows:
 
 - Contribution percentage by category. (shows a bar chart)
-<img src="https://raw.githubusercontent.com/ferzerkerx/git-greenseer/master/screenshots/category_view.png" class="project-img img-responsive"/>
+<img src="https://raw.githubusercontent.com/ferzerkerx/git-greenseer/master/screenshots/category_view.png" class="project-img img-fluid"/>
 
 - Contribution per developer for each category. (shows a pie chart)
-<img src="https://raw.githubusercontent.com/ferzerkerx/git-greenseer/master/screenshots/dev_vew.png" class="project-img img-responsive"/>
+<img src="https://raw.githubusercontent.com/ferzerkerx/git-greenseer/master/screenshots/dev_vew.png" class="project-img img-fluid"/>
 
 

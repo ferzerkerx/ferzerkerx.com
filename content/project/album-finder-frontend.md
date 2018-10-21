@@ -12,4 +12,4 @@ date = "2018-04-28T20:42:15Z"
     - Some features are restricted to admin users
     - Uses Album finder API
     
-<img src="https://raw.githubusercontent.com/ferzerkerx/album-finder-frontend/master/screenshots/album-finder.png" class="project-img img-responsive"/>
+<img src="https://raw.githubusercontent.com/ferzerkerx/album-finder-frontend/master/screenshots/album-finder.png" class="project-img img-fluid"/>

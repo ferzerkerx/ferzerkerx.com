@@ -12,4 +12,4 @@ Description of the assignment <a href="https://www.freecodecamp.com/challenges/b
 <br/>
 <a href="https://sleepy-ridge-64285.herokuapp.com/" target="_blank">See it running</a>
 
-<img src="https://github.com/ferzerkerx/fcc-voting-app/raw/master/fcc-voting-app.png" class="project-img img-responsive"/>
+<img src="https://github.com/ferzerkerx/fcc-voting-app/raw/master/fcc-voting-app.png" class="project-img img-fluid"/>

@@ -9,5 +9,5 @@ date = "2015-04-20T20:42:15Z"
 
 - OpenGL small project that animates a tweezer
 
-<img src="https://raw.githubusercontent.com/ferzerkerx/tweezer-gl-animation/master/screenshots/tweezer.png" class="project-img img-responsive"/>
+<img src="https://raw.githubusercontent.com/ferzerkerx/tweezer-gl-animation/master/screenshots/tweezer.png" class="project-img img-fluid"/>
 
