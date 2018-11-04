@@ -12,5 +12,4 @@ date = "2018-04-29T20:42:15Z"
 <img src="https://raw.githubusercontent.com/ferzerkerx/viking-engine/master/screenshots/viking1.png" class="project-img img-fluid"/>
 <img src="https://raw.githubusercontent.com/ferzerkerx/viking-engine/master/screenshots/viking3.png" class="project-img img-fluid"/>
 <img src="https://raw.githubusercontent.com/ferzerkerx/viking-engine/master/screenshots/viking4.png" class="project-img img-fluid"/>
-class="project-img img-fluid"/>
 
