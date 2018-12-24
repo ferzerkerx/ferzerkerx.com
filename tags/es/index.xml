@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Typescript on Ferzerkerx</title>
-    <link>http://ferzerkerx.github.io/site/tags/typescript/</link>
-    <description>Recent content in Typescript on Ferzerkerx</description>
+    <title>Es on Ferzerkerx</title>
+    <link>http://ferzerkerx.github.io/site/tags/es/</link>
+    <description>Recent content in Es on Ferzerkerx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Fernando Montes</copyright>
     <lastBuildDate>Mon, 24 Dec 2018 08:42:15 +0000</lastBuildDate>
     
-	<atom:link href="http://ferzerkerx.github.io/site/tags/typescript/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://ferzerkerx.github.io/site/tags/es/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,24 +22,6 @@
 Pulls data from:
  Jira Jenkins Github Sonarqube Manual external sources  And pushes it to ElasticSearch so that it can be further analyzed in order to find patterns.
 Inspired by Agile Metrics in Action book and https://github.</description>
-    </item>
-    
-    <item>
-      <title>Lego Workstream</title>
-      <link>http://ferzerkerx.github.io/site/project/lego-work-stream-slack/</link>
-      <pubDate>Sun, 21 Oct 2018 10:42:15 +0000</pubDate>
-      
-      <guid>http://ferzerkerx.github.io/site/project/lego-work-stream-slack/</guid>
-      <description> Overview:  The slackbot helps your team to track their workstream Query metrics and find trends   </description>
-    </item>
-    
-    <item>
-      <title>Album Finder Frontend</title>
-      <link>http://ferzerkerx.github.io/site/project/album-finder-frontend/</link>
-      <pubDate>Sat, 28 Apr 2018 20:42:15 +0000</pubDate>
-      
-      <guid>http://ferzerkerx.github.io/site/project/album-finder-frontend/</guid>
-      <description> Overview:  Includes simple CRUD functionality Some features are restricted to admin users Uses Album finder API    </description>
     </item>
     
   </channel>

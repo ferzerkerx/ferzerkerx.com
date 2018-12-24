@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ferzerkerx.github.io/site/project/agile-metrics-tools/</loc>
+    <lastmod>2018-12-24T08:42:15+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://ferzerkerx.github.io/site/project/lego-work-stream-slack/</loc>
     <lastmod>2018-10-21T10:42:15+00:00</lastmod>
   </url>
@@ -155,8 +160,14 @@
   </url>
   
   <url>
+    <loc>http://ferzerkerx.github.io/site/tags/es/</loc>
+    <lastmod>2018-12-24T08:42:15+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ferzerkerx.github.io/site/</loc>
-    <lastmod>2018-10-21T10:42:15+00:00</lastmod>
+    <lastmod>2018-12-24T08:42:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -246,7 +257,7 @@
   
   <url>
     <loc>http://ferzerkerx.github.io/site/project/</loc>
-    <lastmod>2018-10-21T10:42:15+00:00</lastmod>
+    <lastmod>2018-12-24T08:42:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -300,7 +311,7 @@
   
   <url>
     <loc>http://ferzerkerx.github.io/site/tags/typescript/</loc>
-    <lastmod>2018-10-21T10:42:15+00:00</lastmod>
+    <lastmod>2018-12-24T08:42:15+00:00</lastmod>
     <priority>0</priority>
   </url>
   

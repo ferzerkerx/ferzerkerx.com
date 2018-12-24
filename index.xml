@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Fernando Montes</copyright>
-    <lastBuildDate>Sun, 21 Oct 2018 10:42:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Dec 2018 08:42:15 +0000</lastBuildDate>
     
 	<atom:link href="http://ferzerkerx.github.io/site/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Agile Metrics tools</title>
+      <link>http://ferzerkerx.github.io/site/project/agile-metrics-tools/</link>
+      <pubDate>Mon, 24 Dec 2018 08:42:15 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/project/agile-metrics-tools/</guid>
+      <description>Agile metrics tools allows you to track metrics from different sources in order to identify trends and patterns on how your team performance is affected by its environment Inspired by &amp;lsquo;Agile Metrics in Action&amp;rsquo; book and https://github.com/cwhd/measurementor project
+Pulls data from:
+ Jira Jenkins Github Sonarqube Manual external sources  And pushes it to ElasticSearch so that it can be further analyzed in order to find patterns.
+Inspired by Agile Metrics in Action book and https://github.</description>
+    </item>
     
     <item>
       <title>Lego Workstream</title>
