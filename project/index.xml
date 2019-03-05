@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Fernando Montes</copyright>
-    <lastBuildDate>Mon, 24 Dec 2018 08:42:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Mar 2019 20:39:11 +0000</lastBuildDate>
     
 	<atom:link href="http://ferzerkerx.github.io/site/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Repo-stats</title>
+      <link>http://ferzerkerx.github.io/site/project/repo-stats/</link>
+      <pubDate>Mon, 04 Mar 2019 20:39:11 +0000</pubDate>
+      
+      <guid>http://ferzerkerx.github.io/site/project/repo-stats/</guid>
+      <description> Overview:
+ Metrics are calculated for each file for every commit It&amp;rsquo;s possible to get contribution per author Each subdirectory of a file is a category It&amp;rsquo;s possible to get authors based on a keyword It&amp;rsquo;s possible to get filenames based on a keyword  Contribution percentage by category. (shows a bar chart)  Contribution per developer for each category. (shows a pie chart)   </description>
+    </item>
     
     <item>
       <title>Agile Metrics tools</title>

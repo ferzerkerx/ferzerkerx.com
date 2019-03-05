@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://ferzerkerx.github.io/site/project/repo-stats/</loc>
+    <lastmod>2019-03-04T20:39:11+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://ferzerkerx.github.io/site/project/agile-metrics-tools/</loc>
     <lastmod>2018-12-24T08:42:15+00:00</lastmod>
   </url>
@@ -154,6 +159,12 @@
   </url>
   
   <url>
+    <loc>http://ferzerkerx.github.io/site/tags/elasticsearch/</loc>
+    <lastmod>2019-03-04T20:39:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ferzerkerx.github.io/site/tags/elk/</loc>
     <lastmod>2017-10-14T20:42:15+00:00</lastmod>
     <priority>0</priority>
@@ -167,13 +178,19 @@
   
   <url>
     <loc>http://ferzerkerx.github.io/site/</loc>
-    <lastmod>2018-12-24T08:42:15+00:00</lastmod>
+    <lastmod>2019-03-04T20:39:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ferzerkerx.github.io/site/tags/git/</loc>
     <lastmod>2016-12-29T20:39:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ferzerkerx.github.io/site/tags/github/</loc>
+    <lastmod>2019-03-04T20:39:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -257,7 +274,7 @@
   
   <url>
     <loc>http://ferzerkerx.github.io/site/project/</loc>
-    <lastmod>2018-12-24T08:42:15+00:00</lastmod>
+    <lastmod>2019-03-04T20:39:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -311,7 +328,7 @@
   
   <url>
     <loc>http://ferzerkerx.github.io/site/tags/typescript/</loc>
-    <lastmod>2018-12-24T08:42:15+00:00</lastmod>
+    <lastmod>2019-03-04T20:39:11+00:00</lastmod>
     <priority>0</priority>
   </url>
   
