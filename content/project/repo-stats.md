@@ -16,9 +16,9 @@ date = "2019-03-04T20:39:11Z"
  - It's possible to get filenames based on a keyword
 
 - Contribution percentage by category. (shows a bar chart)
-<img src="https://raw.githubusercontent.com/ferzerkerx/git-greenseer/master/screenshots/repo-stats-1.png" class="project-img img-fluid"/>
+<img src="https://raw.githubusercontent.com/ferzerkerx/repo-stats/master/screenshots/repo-stats-1.png" class="project-img img-fluid"/>
 
 - Contribution per developer for each category. (shows a pie chart)
-<img src="https://raw.githubusercontent.com/ferzerkerx/git-greenseer/master/screenshots/repo-stats-2.png" class="project-img img-fluid"/>
+<img src="https://raw.githubusercontent.com/ferzerkerx/repo-stats/master/screenshots/repo-stats-1.png" class="project-img img-fluid"/>
 
 
