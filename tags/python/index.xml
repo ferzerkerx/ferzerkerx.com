@@ -1,26 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python on Ferzerkerx</title>
+    <title>python on Ferzerkerx</title>
     <link>http://ferzerkerx.github.io/site/tags/python/</link>
-    <description>Recent content in Python on Ferzerkerx</description>
+    <description>Recent content in python on Ferzerkerx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Fernando Montes</copyright>
-    <lastBuildDate>Thu, 29 Dec 2016 20:39:11 +0000</lastBuildDate>
-    
-	<atom:link href="http://ferzerkerx.github.io/site/tags/python/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 29 Dec 2016 20:39:11 +0000</lastBuildDate><atom:link href="http://ferzerkerx.github.io/site/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git Greenseer</title>
       <link>http://ferzerkerx.github.io/site/project/git-greenseer/</link>
       <pubDate>Thu, 29 Dec 2016 20:39:11 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/project/git-greenseer/</guid>
-      <description>A static git repository tool analyzer. It calculates the total contribution per category / project by developer and it generates a report displaying charts with this information. It helps to understand which developers own or understand specific categories on the code.
+      <description>A static git repository tool analyzer. It calculates the total contribution per category / project by developer and generates a report displaying charts with this information. It helps to understand which developers own or understand specific categories on the code.
 Html report shows:
- Contribution percentage by category. (shows a bar chart)  Contribution per developer for each category. (shows a pie chart)   </description>
+  Contribution percentage by category. (shows a bar chart)   Contribution per developer for each category. (shows a pie chart)   </description>
     </item>
     
   </channel>

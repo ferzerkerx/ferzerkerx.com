@@ -1,17 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Angular 5 on Ferzerkerx</title>
+    <title>angular 5 on Ferzerkerx</title>
     <link>http://ferzerkerx.github.io/site/tags/angular-5/</link>
-    <description>Recent content in Angular 5 on Ferzerkerx</description>
+    <description>Recent content in angular 5 on Ferzerkerx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Fernando Montes</copyright>
-    <lastBuildDate>Sat, 28 Apr 2018 20:42:15 +0000</lastBuildDate>
-    
-	<atom:link href="http://ferzerkerx.github.io/site/tags/angular-5/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 28 Apr 2018 20:42:15 +0000</lastBuildDate><atom:link href="http://ferzerkerx.github.io/site/tags/angular-5/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Finder Frontend</title>
       <link>http://ferzerkerx.github.io/site/project/album-finder-frontend/</link>

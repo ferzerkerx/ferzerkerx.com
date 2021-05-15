@@ -1,335 +1,181 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/repo-stats/</loc>
-    <lastmod>2019-03-04T20:39:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/agile-metrics-tools/</loc>
-    <lastmod>2018-12-24T08:42:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/lego-work-stream-slack/</loc>
-    <lastmod>2018-10-21T10:42:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/map-event/</loc>
-    <lastmod>2018-05-19T10:42:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/sonarqube-aws/</loc>
-    <lastmod>2018-05-09T10:42:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/viking-engine/</loc>
-    <lastmod>2018-04-29T20:42:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/album-finder-frontend/</loc>
-    <lastmod>2018-04-28T20:42:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/album-finder-api/</loc>
-    <lastmod>2018-04-20T20:42:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/record-store-api/</loc>
-    <lastmod>2018-03-20T20:42:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/jooq-demo/</loc>
-    <lastmod>2018-01-02T20:42:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/lucene-demo/</loc>
-    <lastmod>2017-12-03T18:42:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/graphite-demo/</loc>
-    <lastmod>2017-10-15T20:42:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/elasticsearch-demo/</loc>
-    <lastmod>2017-10-14T20:42:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/fcc-map-data/</loc>
-    <lastmod>2017-02-18T20:42:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/fcc-simon-says/</loc>
-    <lastmod>2016-12-30T17:32:56+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/fcc-chart-stock-market/</loc>
-    <lastmod>2016-12-29T20:42:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/fcc-dungeon-crawler/</loc>
-    <lastmod>2016-12-29T20:42:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/fcc-markdown-preview/</loc>
-    <lastmod>2016-12-29T20:42:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/fcc-pomodoro/</loc>
-    <lastmod>2016-12-29T20:42:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/fcc-voting/</loc>
-    <lastmod>2016-12-29T20:42:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/git-greenseer/</loc>
-    <lastmod>2016-12-29T20:39:11+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/tree-inspector/</loc>
-    <lastmod>2016-02-02T20:42:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/project/tweezer-gl/</loc>
-    <lastmod>2015-04-20T20:42:15+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/angular-5/</loc>
-    <lastmod>2018-04-28T20:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/aws/</loc>
-    <lastmod>2018-05-09T10:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/botkit/</loc>
-    <lastmod>2018-10-21T10:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/cpp/</loc>
-    <lastmod>2018-04-29T20:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/d3/</loc>
-    <lastmod>2018-10-21T10:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/d3.js/</loc>
-    <lastmod>2017-02-18T20:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
   <url>
     <loc>http://ferzerkerx.github.io/site/tags/elasticsearch/</loc>
     <lastmod>2019-03-04T20:39:11+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/elk/</loc>
-    <lastmod>2017-10-14T20:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/es/</loc>
-    <lastmod>2018-12-24T08:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ferzerkerx.github.io/site/</loc>
     <lastmod>2019-03-04T20:39:11+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/git/</loc>
-    <lastmod>2016-12-29T20:39:11+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ferzerkerx.github.io/site/tags/github/</loc>
     <lastmod>2019-03-04T20:39:11+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/grafana/</loc>
-    <lastmod>2017-10-15T20:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/graphite/</loc>
-    <lastmod>2017-10-15T20:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/hibernate/</loc>
-    <lastmod>2018-04-20T20:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/java/</loc>
-    <lastmod>2018-04-20T20:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/javafx/</loc>
-    <lastmod>2016-02-02T20:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/javascript/</loc>
-    <lastmod>2017-12-03T18:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/jooq/</loc>
-    <lastmod>2018-01-02T20:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/jpa/</loc>
-    <lastmod>2018-03-20T20:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/js/</loc>
-    <lastmod>2018-10-21T10:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/lucene/</loc>
-    <lastmod>2017-12-03T18:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/node/</loc>
-    <lastmod>2018-10-21T10:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/opengl/</loc>
-    <lastmod>2018-04-29T20:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/postgresql/</loc>
-    <lastmod>2018-05-09T10:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>http://ferzerkerx.github.io/site/project/</loc>
     <lastmod>2019-03-04T20:39:11+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/python/</loc>
-    <lastmod>2016-12-29T20:39:11+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/react/</loc>
-    <lastmod>2017-12-03T18:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/sonarqube/</loc>
-    <lastmod>2018-05-09T10:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/spring/</loc>
-    <lastmod>2018-04-20T20:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/springboot/</loc>
-    <lastmod>2018-01-02T20:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/repo-stats/</loc>
+    <lastmod>2019-03-04T20:39:11+00:00</lastmod>
+  </url><url>
     <loc>http://ferzerkerx.github.io/site/tags/</loc>
-    <lastmod>2018-04-28T20:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/terraform/</loc>
-    <lastmod>2018-05-09T10:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ferzerkerx.github.io/site/tags/topojson/</loc>
-    <lastmod>2018-05-19T10:42:15+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+    <lastmod>2019-03-04T20:39:11+00:00</lastmod>
+  </url><url>
     <loc>http://ferzerkerx.github.io/site/tags/typescript/</loc>
     <lastmod>2019-03-04T20:39:11+00:00</lastmod>
-    <priority>0</priority>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/agile-metrics-tools/</loc>
+    <lastmod>2018-12-24T08:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/es/</loc>
+    <lastmod>2018-12-24T08:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/botkit/</loc>
+    <lastmod>2018-10-21T10:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/d3/</loc>
+    <lastmod>2018-10-21T10:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/js/</loc>
+    <lastmod>2018-10-21T10:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/lego-work-stream-slack/</loc>
+    <lastmod>2018-10-21T10:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/node/</loc>
+    <lastmod>2018-10-21T10:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/map-event/</loc>
+    <lastmod>2018-05-19T10:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/topojson/</loc>
+    <lastmod>2018-05-19T10:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/aws/</loc>
+    <lastmod>2018-05-09T10:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/postgresql/</loc>
+    <lastmod>2018-05-09T10:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/sonarqube/</loc>
+    <lastmod>2018-05-09T10:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/sonarqube-aws/</loc>
+    <lastmod>2018-05-09T10:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/terraform/</loc>
+    <lastmod>2018-05-09T10:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/cpp/</loc>
+    <lastmod>2018-04-29T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/opengl/</loc>
+    <lastmod>2018-04-29T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/viking-engine/</loc>
+    <lastmod>2018-04-29T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/album-finder-frontend/</loc>
+    <lastmod>2018-04-28T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/angular-5/</loc>
+    <lastmod>2018-04-28T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/album-finder-api/</loc>
+    <lastmod>2018-04-20T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/hibernate/</loc>
+    <lastmod>2018-04-20T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/java/</loc>
+    <lastmod>2018-04-20T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/spring/</loc>
+    <lastmod>2018-04-20T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/jpa/</loc>
+    <lastmod>2018-03-20T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/record-store-api/</loc>
+    <lastmod>2018-03-20T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/jooq/</loc>
+    <lastmod>2018-01-02T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/jooq-demo/</loc>
+    <lastmod>2018-01-02T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/springboot/</loc>
+    <lastmod>2018-01-02T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/javascript/</loc>
+    <lastmod>2017-12-03T18:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/lucene/</loc>
+    <lastmod>2017-12-03T18:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/lucene-demo/</loc>
+    <lastmod>2017-12-03T18:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/react/</loc>
+    <lastmod>2017-12-03T18:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/grafana/</loc>
+    <lastmod>2017-10-15T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/graphite/</loc>
+    <lastmod>2017-10-15T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/graphite-demo/</loc>
+    <lastmod>2017-10-15T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/elasticsearch-demo/</loc>
+    <lastmod>2017-10-14T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/elk/</loc>
+    <lastmod>2017-10-14T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/d3.js/</loc>
+    <lastmod>2017-02-18T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/fcc-map-data/</loc>
+    <lastmod>2017-02-18T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/fcc-simon-says/</loc>
+    <lastmod>2016-12-30T17:32:56+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/fcc-chart-stock-market/</loc>
+    <lastmod>2016-12-29T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/fcc-dungeon-crawler/</loc>
+    <lastmod>2016-12-29T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/fcc-markdown-preview/</loc>
+    <lastmod>2016-12-29T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/fcc-pomodoro/</loc>
+    <lastmod>2016-12-29T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/fcc-voting/</loc>
+    <lastmod>2016-12-29T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/git/</loc>
+    <lastmod>2016-12-29T20:39:11+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/git-greenseer/</loc>
+    <lastmod>2016-12-29T20:39:11+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/python/</loc>
+    <lastmod>2016-12-29T20:39:11+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/tags/javafx/</loc>
+    <lastmod>2016-02-02T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/tree-inspector/</loc>
+    <lastmod>2016-02-02T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/project/tweezer-gl/</loc>
+    <lastmod>2015-04-20T20:42:15+00:00</lastmod>
+  </url><url>
+    <loc>http://ferzerkerx.github.io/site/categories/</loc>
   </url>
-  
 </urlset>

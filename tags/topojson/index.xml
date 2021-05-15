@@ -1,24 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Topojson on Ferzerkerx</title>
+    <title>topojson on Ferzerkerx</title>
     <link>http://ferzerkerx.github.io/site/tags/topojson/</link>
-    <description>Recent content in Topojson on Ferzerkerx</description>
+    <description>Recent content in topojson on Ferzerkerx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Fernando Montes</copyright>
-    <lastBuildDate>Sat, 19 May 2018 10:42:15 +0000</lastBuildDate>
-    
-	<atom:link href="http://ferzerkerx.github.io/site/tags/topojson/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 19 May 2018 10:42:15 +0000</lastBuildDate><atom:link href="http://ferzerkerx.github.io/site/tags/topojson/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Map Event</title>
       <link>http://ferzerkerx.github.io/site/project/map-event/</link>
       <pubDate>Sat, 19 May 2018 10:42:15 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/project/map-event/</guid>
-      <description> Overview:  Render a map based on a topojson file Highlight areas in a map when an event occurs matching the region name mouse over provides shows a toolip with region information   </description>
+      <description> Overview:  Render a map based on a topojson file Highlight areas in a map when an event occurs matching the region name mouse over provides shows a toolip with region information    </description>
     </item>
     
   </channel>

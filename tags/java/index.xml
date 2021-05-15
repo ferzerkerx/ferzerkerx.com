@@ -1,24 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Java on Ferzerkerx</title>
+    <title>java on Ferzerkerx</title>
     <link>http://ferzerkerx.github.io/site/tags/java/</link>
-    <description>Recent content in Java on Ferzerkerx</description>
+    <description>Recent content in java on Ferzerkerx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Fernando Montes</copyright>
-    <lastBuildDate>Fri, 20 Apr 2018 20:42:15 +0000</lastBuildDate>
-    
-	<atom:link href="http://ferzerkerx.github.io/site/tags/java/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 20 Apr 2018 20:42:15 +0000</lastBuildDate><atom:link href="http://ferzerkerx.github.io/site/tags/java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Album Finder API</title>
       <link>http://ferzerkerx.github.io/site/project/album-finder-api/</link>
       <pubDate>Fri, 20 Apr 2018 20:42:15 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/project/album-finder-api/</guid>
-      <description> Overview:  Includes simple CRUD functionality REST API using SpringMVC User authentication is provided by SpringSecurity CSRF Protection enabled Data Persistence is done using hibernate on a HSQLDB   </description>
+      <description> Overview:  Includes simple CRUD functionality REST API using SpringMVC User authentication is provided by SpringSecurity CSRF Protection enabled Data Persistence is done using hibernate on a HSQLDB    </description>
     </item>
     
     <item>
@@ -27,7 +23,7 @@
       <pubDate>Tue, 20 Mar 2018 20:42:15 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/project/record-store-api/</guid>
-      <description> Overview:  Includes simple CRUD functionality REST API using SpringMVC JPA provider is hibernate   </description>
+      <description> Overview:  Includes simple CRUD functionality REST API using SpringMVC JPA provider is hibernate    </description>
     </item>
     
     <item>
@@ -46,7 +42,7 @@ SpringBoot application that uses Jooq in an embedded H2 db</description>
       <pubDate>Sun, 03 Dec 2017 18:42:15 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/project/lucene-demo/</guid>
-      <description> Auto complete input backed by an endpoint using Lucene Used to search all time books listed here: https://www.goodreads.com/list/show/2681.Time_Magazine_s_All_Time_100_Novels endpoint usage: http://:/books?keyword=&amp;rdquo;[bookTitle|authorName]&amp;rdquo;   </description>
+      <description> Auto complete input backed by an endpoint using Lucene Used to search all time books listed here: https://www.goodreads.com/list/show/2681.Time_Magazine_s_All_Time_100_Novels endpoint usage: http://:/books?keyword=&amp;quot;[bookTitle|authorName]&amp;quot;   </description>
     </item>
     
     <item>

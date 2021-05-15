@@ -1,24 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Javascript on Ferzerkerx</title>
+    <title>javascript on Ferzerkerx</title>
     <link>http://ferzerkerx.github.io/site/tags/javascript/</link>
-    <description>Recent content in Javascript on Ferzerkerx</description>
+    <description>Recent content in javascript on Ferzerkerx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Fernando Montes</copyright>
-    <lastBuildDate>Sun, 03 Dec 2017 18:42:15 +0000</lastBuildDate>
-    
-	<atom:link href="http://ferzerkerx.github.io/site/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 03 Dec 2017 18:42:15 +0000</lastBuildDate><atom:link href="http://ferzerkerx.github.io/site/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lucene Auto complete input</title>
       <link>http://ferzerkerx.github.io/site/project/lucene-demo/</link>
       <pubDate>Sun, 03 Dec 2017 18:42:15 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/project/lucene-demo/</guid>
-      <description> Auto complete input backed by an endpoint using Lucene Used to search all time books listed here: https://www.goodreads.com/list/show/2681.Time_Magazine_s_All_Time_100_Novels endpoint usage: http://:/books?keyword=&amp;rdquo;[bookTitle|authorName]&amp;rdquo;   </description>
+      <description> Auto complete input backed by an endpoint using Lucene Used to search all time books listed here: https://www.goodreads.com/list/show/2681.Time_Magazine_s_All_Time_100_Novels endpoint usage: http://:/books?keyword=&amp;quot;[bookTitle|authorName]&amp;quot;   </description>
     </item>
     
     <item>

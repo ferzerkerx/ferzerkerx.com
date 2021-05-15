@@ -1,25 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Elasticsearch on Ferzerkerx</title>
+    <title>elasticsearch on Ferzerkerx</title>
     <link>http://ferzerkerx.github.io/site/tags/elasticsearch/</link>
-    <description>Recent content in Elasticsearch on Ferzerkerx</description>
+    <description>Recent content in elasticsearch on Ferzerkerx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Fernando Montes</copyright>
-    <lastBuildDate>Mon, 04 Mar 2019 20:39:11 +0000</lastBuildDate>
-    
-	<atom:link href="http://ferzerkerx.github.io/site/tags/elasticsearch/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 04 Mar 2019 20:39:11 +0000</lastBuildDate><atom:link href="http://ferzerkerx.github.io/site/tags/elasticsearch/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Repo-stats</title>
       <link>http://ferzerkerx.github.io/site/project/repo-stats/</link>
       <pubDate>Mon, 04 Mar 2019 20:39:11 +0000</pubDate>
       
       <guid>http://ferzerkerx.github.io/site/project/repo-stats/</guid>
-      <description> Overview:
- Metrics are calculated for each file for every commit It&amp;rsquo;s possible to get contribution per author Each subdirectory of a file is a category It&amp;rsquo;s possible to get authors based on a keyword It&amp;rsquo;s possible to get filenames based on a keyword  Contribution percentage by category. (shows a bar chart)  Contribution per developer for each category. (shows a pie chart)   </description>
+      <description> Overview:  Metrics are calculated for each file for every commit It&amp;rsquo;s possible to get contribution per author Each subdirectory of a file is a category It&amp;rsquo;s possible to get authors based on a keyword It&amp;rsquo;s possible to get filenames based on a keyword      Contribution percentage by category. (shows a bar chart)   Contribution per developer for each category. (shows a pie chart)   </description>
     </item>
     
   </channel>
