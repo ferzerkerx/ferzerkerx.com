@@ -8,8 +8,8 @@ date = "2018-10-21T10:42:15Z"
 +++
 
 + Overview:
- - The slackbot helps your team to track their workstream
- - Query metrics and find trends
+    - The slackbot helps your team to track their workstream
+    - Query metrics and find trends
 
 <img src="https://raw.githubusercontent.com/ferzerkerx/lego-work-stream-slack/master/screenshots/lego3.png" class="project-img img-fluid"/>
 <img src="https://raw.githubusercontent.com/ferzerkerx/lego-work-stream-slack/master/screenshots/lego1.png" class="project-img img-fluid"/>

@@ -9,7 +9,7 @@
     <div class="col-xs-12 col-md-10 content list-content">
         <h1 class="section-title">{{ .Title }}</h1>
 
-        {{ range $index, $page:=.Data.Pages }}
+        {{ range $index, $page:=.Pages }}
 
         {{if (eq (mod $index 2) 0)}}
             <div class="row">

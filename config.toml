@@ -11,3 +11,9 @@ copyright = "&copy; Fernando Montes"
 [[menu.main]]
   name = "Projects"
   url = "/project/"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

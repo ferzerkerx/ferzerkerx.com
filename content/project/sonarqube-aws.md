@@ -8,5 +8,5 @@ date = "2018-05-09T10:42:15Z"
 +++
 
 + Overview:
-    - Customized sonarqube image
-    - Gets deployed on ECS using terraform
+  - Customized sonarqube image
+  - Gets deployed on ECS using terraform

@@ -20,7 +20,7 @@
 
                     <article>
 
-                        {{ range first 4 (where .Data.Pages "Section" "project") }}
+                        {{ range first 4 ((after 1 (where .Site.Pages "Section" "project")) ) }}
 
                         <div class="row index-row">
                             <div>

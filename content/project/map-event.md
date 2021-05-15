@@ -8,9 +8,9 @@ date = "2018-05-19T10:42:15Z"
 +++
 
 + Overview:
- - Render a map based on a topojson file
- - Highlight areas in a map when an event occurs matching the region name
- - mouse over provides shows a toolip with region information
+    - Render a map based on a topojson file
+    - Highlight areas in a map when an event occurs matching the region name
+    - mouse over provides shows a toolip with region information
 
 <img src="https://raw.githubusercontent.com/ferzerkerx/map-event/master/screenshots/mx.png" class="project-img img-fluid"/>
 <img src="https://raw.githubusercontent.com/ferzerkerx/map-event/master/screenshots/de.png" class="project-img img-fluid"/>
